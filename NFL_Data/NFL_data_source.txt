@@ -30,3 +30,30 @@ http://www.pro-football-reference.com
 
 
 ———————————————————————————————————————————————————————————————
+
+http://www.nfl.com/stats/categorystats?archive=true&conference=null&role=OPP&offensiveStatisticCategory=null&defensiveStatisticCategory=GAME_STATS&season=2005&seasonType=REG&tabSeq=2&qualified=false&Submit=Go
+
+
+2002_def_rank
+2003_def_rank
+2004_def_rank
+2005_def_rank
+2006_def_rank
+2007_def_rank
+2008_def_rank
+2009_def_rank
+2010_def_rank
+2011_def_rank
+2012_def_rank
+
+2002_off_rank
+2003_off_rank
+2004_off_rank
+2005_off_rank
+2006_off_rank
+2007_off_rank
+2008_off_rank
+2009_off_rank
+2010_off_rank
+2011_off_rank
+2012_off_rank
