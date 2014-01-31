@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 JAN 2014 13:55
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 JAN 2014 19:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -320,12 +320,12 @@ Here is how much of TeX's memory you used:
  6485 multiletter control sequences out of 15000+200000
  8261 words of font info for 30 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,6n,43p,579b,203s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,6n,43p,523b,203s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr12.pfb>
-Output written on NFL_Project_Proposal.pdf (1 page, 47780 bytes).
+Output written on NFL_Project_Proposal.pdf (1 page, 47714 bytes).
 PDF statistics:
  20 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream
