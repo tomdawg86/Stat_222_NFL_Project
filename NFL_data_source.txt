@@ -2,7 +2,7 @@ Sources of data in this folder:
 
 ———————————————————————————————————————————————————————————————
 
-http://www.advancednflstats.com/2010/04/play-by-play-data.html
+http://webcache.googleusercontent.com/search?q=cache%3Ahttp%3A%2F%2Fwww.advancednflstats.com%2F2010%2F04%2Fplay-by-play-data.html&rlz=2C5CHFA_enUS0537US0537&oq=cache%3Ahttp%3A%2F%2Fwww.advancednflstats.com%2F2010%2F04%2Fplay-by-play-data.html&aqs=chrome..69i57j69i58.6470j0j8&sourceid=chrome&espv=210&es_sm=119&ie=UTF-8
 
 2002_nfl_pbp_data.csv
 2003_nfl_pbp_data.csv
