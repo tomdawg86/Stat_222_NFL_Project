@@ -41,5 +41,5 @@ firstPlay['mergeVar'] = np.arange(len(firstPlay))
 lastPlay['mergeVar'] = np.arange(len(firstPlay))
 
 driveByDrive = firstPlay.merge(lastPlay, on = 'mergeVar', suffixes = ('_first', '_last')) 
-print driveByDrive.head(1)
-driveByDrive.to_csv('driveByDrive.csv', sep=',')
+print driveByDrive
+#driveByDrive.to_csv('driveByDrive.csv', sep=',')
