@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  13 MAR 2014 21:58
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  14 MAR 2014 00:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1063,14 +1063,14 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
 Here is how much of TeX's memory you used:
  16657 strings out of 493488
  306602 string characters out of 3141326
- 471822 words of memory out of 3000000
+ 471820 words of memory out of 3000000
  19567 multiletter control sequences out of 15000+200000
  4539 words of font info for 17 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  49i,14n,53p,423b,554s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on MidtermSlides.pdf (8 pages, 132799 bytes).
+Output written on MidtermSlides.pdf (8 pages, 132794 bytes).
 PDF statistics:
  275 PDF objects out of 1000 (max. 8388607)
  218 compressed objects within 3 object streams
