@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  15 MAR 2014 01:09
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  15 MAR 2014 23:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -965,101 +965,176 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 LaTeX Info: Redefining \includegraphics on input line 6.
 
-(./MidtermSlides.nav)
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 11--11
- []|[]|  
+(./MidtermSlides.nav) <FootballField.png, id=13, 1007.765pt x 511.9125pt>
+File: FootballField.png Graphic file (type png)
+
+<use FootballField.png>
+Package pdftex.def Info: FootballField.png used on input line 16.
+(pdftex.def)             Requested size: 307.28987pt x 156.09012pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 16--16
+ []|[]  
  []
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 11.
+(Font)              size <5> substituted on input line 16.
 
 [1
 
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 16--16
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Footb
+allField.png>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 28--28
  []|[]|  
  []
 
 [2
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 41--41
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 44--44
  []|[]|  
  []
 
 [3
 
-] <OffRankperSeason.pdf, id=93, 433.62pt x 289.08pt>
-File: OffRankperSeason.pdf Graphic file (type pdf)
-
-<use OffRankperSeason.pdf>
-Package pdftex.def Info: OffRankperSeason.pdf used on input line 51.
-(pdftex.def)             Requested size: 153.64493pt x 102.42783pt.
- <DefRankperSeason.pdf, id=94, 433.62pt x 289.08pt>
-File: DefRankperSeason.pdf Graphic file (type pdf)
-
-<use DefRankperSeason.pdf>
-Package pdftex.def Info: DefRankperSeason.pdf used on input line 51.
-(pdftex.def)             Requested size: 153.64493pt x 102.42783pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 51--51
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 50--50
  []|[]|  
  []
 
 [4
 
- <./OffRankperSeason.pdf> <./DefRankperSeason.pdf
+]
+LaTeX Font Info:    Try loading font information for U+msa on input line 63.
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 63.
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./DefRankperSeason.pdf): PDF inclusi
-on: multiple pdfs with page group included in a single page
->] <fieldgoalprob.pdf, id=197, 433.62pt x 289.08pt>
-File: fieldgoalprob.pdf Graphic file (type pdf)
- <use fieldgoalprob.pdf>
-Package pdftex.def Info: fieldgoalprob.pdf used on input line 60.
-(pdftex.def)             Requested size: 307.28987pt x 204.86888pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 60--60
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 63--63
  []|[]|  
  []
 
 [5
 
- <./fieldgoalprob.pdf>] <gfiprob1-2.png, id=264, 1371.1225pt x 742.775pt>
-File: gfiprob1-2.png Graphic file (type png)
+] <fieldgoalprob.pdf, id=152, 433.62pt x 289.08pt>
+File: fieldgoalprob.pdf Graphic file (type pdf)
+ <use fieldgoalprob.pdf>
+Package pdftex.def Info: fieldgoalprob.pdf used on input line 71.
+(pdftex.def)             Requested size: 307.28987pt x 204.86888pt.
 
-<use gfiprob1-2.png>
-Package pdftex.def Info: gfiprob1-2.png used on input line 69.
-(pdftex.def)             Requested size: 307.28987pt x 166.4598pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 69--69
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 71--71
  []|[]|  
  []
 
 [6
 
- <./gfiprob1-2.png (PNG copy)>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 74--74
+ <./fieldgoalprob.pdf>] <gfi21more.png, id=218, 1371.1225pt x 742.775pt>
+File: gfi21more.png Graphic file (type png)
+
+<use gfi21more.png>
+Package pdftex.def Info: gfi21more.png used on input line 79.
+(pdftex.def)             Requested size: 307.28987pt x 166.4598pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 79--79
  []|[]|  
  []
 
 [7
 
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 79--79
+ <./gfi21more.png (PNG copy)>]
+<gfiprob14-17.png, id=245, 1371.1225pt x 742.775pt>
+File: gfiprob14-17.png Graphic file (type png)
+ <use gfiprob14-17.png>
+Package pdftex.def Info: gfiprob14-17.png used on input line 87.
+(pdftex.def)             Requested size: 307.28987pt x 166.4598pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 87--87
  []|[]|  
  []
 
 [8
 
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 84--84
+ <./gfiprob14-17.png (PNG copy)>]
+<gfiprob6-7.png, id=271, 1371.1225pt x 742.775pt>
+File: gfiprob6-7.png Graphic file (type png)
+ <use gfiprob6-7.png>
+Package pdftex.def Info: gfiprob6-7.png used on input line 95.
+(pdftex.def)             Requested size: 307.28987pt x 166.4598pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 95--95
  []|[]|  
  []
 
 [9
 
-]
+ <./gfiprob6-7.png (PNG copy)>]
+<gfiprob1-2.png, id=298, 1371.1225pt x 742.775pt>
+File: gfiprob1-2.png Graphic file (type png)
+ <use gfiprob1-2.png>
+Package pdftex.def Info: gfiprob1-2.png used on input line 103.
+(pdftex.def)             Requested size: 307.28987pt x 166.4598pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 103--103
+ []|[]|  
+ []
+
+[10
+
+ <./gfiprob1-2.png (PNG copy)>]
+<Decision3070263051.pdf, id=324, 433.62pt x 289.08pt>
+File: Decision3070263051.pdf Graphic file (type pdf)
+
+<use Decision3070263051.pdf>
+Package pdftex.def Info: Decision3070263051.pdf used on input line 113.
+(pdftex.def)             Requested size: 307.28987pt x 204.86888pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 113--113
+ []|[]|  
+ []
+
+
+Overfull \vbox (1.3249pt too high) detected at line 113
+ []
+
+[11
+
+ <./Decision3070263051.pdf>]
+<Decision3070122520.pdf, id=393, 433.62pt x 289.08pt>
+File: Decision3070122520.pdf Graphic file (type pdf)
+
+<use Decision3070122520.pdf>
+Package pdftex.def Info: Decision3070122520.pdf used on input line 123.
+(pdftex.def)             Requested size: 307.28987pt x 204.86888pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 123--123
+ []|[]|  
+ []
+
+
+Overfull \vbox (1.3249pt too high) detected at line 123
+ []
+
+[12
+
+ <./Decision3070122520.pdf>]
+<FinalDecBlock111010.png, id=462, 990.70125pt x 324.21124pt>
+File: FinalDecBlock111010.png Graphic file (type png)
+
+<use FinalDecBlock111010.png>
+Package pdftex.def Info: FinalDecBlock111010.png used on input line 136.
+(pdftex.def)             Requested size: 307.28987pt x 100.55885pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 136--136
+ []|[]  
+ []
+
+[13
+
+ <./FinalDecBlock111010.png>]
 \tf@nav=\write6
 \openout6 = `MidtermSlides.nav'.
 
@@ -1069,11 +1144,11 @@ Overfull \hbox (17.07181pt too wide) in paragraph at lines 84--84
 \tf@snm=\write8
 \openout8 = `MidtermSlides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
  (./MidtermSlides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 137.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 137.
 Package rerunfilecheck Info: File `MidtermSlides.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1081,23 +1156,29 @@ Package rerunfilecheck Info: File `MidtermSlides.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 137.
  ) 
 Here is how much of TeX's memory you used:
- 16681 strings out of 493488
- 307102 string characters out of 3141326
- 471821 words of memory out of 3000000
- 19586 multiletter control sequences out of 15000+200000
- 4838 words of font info for 18 fonts, out of 3000000 for 9000
+ 16780 strings out of 493488
+ 308698 string characters out of 3141326
+ 471822 words of memory out of 3000000
+ 19650 multiletter control sequences out of 15000+200000
+ 10776 words of font info for 42 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 49i,14n,53p,423b,554s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
-usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on MidtermSlides.pdf (9 pages, 170993 bytes).
+ 49i,14n,53p,578b,554s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
+/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr
+/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/
+texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
+exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+Output written on MidtermSlides.pdf (13 pages, 1490085 bytes).
 PDF statistics:
- 383 PDF objects out of 1000 (max. 8388607)
- 257 compressed objects within 3 object streams
- 19 named destinations out of 1000 (max. 500000)
- 63 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 527 PDF objects out of 1000 (max. 8388607)
+ 375 compressed objects within 4 object streams
+ 27 named destinations out of 1000 (max. 500000)
+ 88 words of extra memory for PDF output out of 10000 (max. 10000000)
 
