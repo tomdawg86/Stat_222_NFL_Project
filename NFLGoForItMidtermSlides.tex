@@ -1,8 +1,10 @@
 \documentclass[mathserif,serif]{beamer}
 \usepackage{pdfpages} 
 \usepackage{graphics}
+\definecolor{WinterSkin}{HTML}{E9E9EA}
 \usepackage{amsmath,amssymb,amsfonts,textcomp,setspace,graphicx,lipsum,hanging,url}
 \setbeamercolor{frametitle}{fg=black}
+\setbeamercolor{background canvas}{bg=WinterSkin}
 \begin{document}
   \begin{frame}
     \frametitle{\centerline{NFL Go For It!}\\ \centerline{The 4th Down Decision}}
@@ -48,7 +50,15 @@ Finally, with this information a decision can be made.
     \frametitle{\centerline{NFL Go For It!}}
     %Frame 2
 \centerline{The Data}
-The data that we have chosen to attempt to answer this research question is NFL play-by-play data for seasons 2002 - 2012. The play-by-play data includes a game ID, which quarter, which down, which teams, a play description, and the number of points scored. A lot of of data cleaning and manipulation was required to successfully analyze the data and even more work may be required to get more accurate predictions.  From the data we ranked the teams according to their defense and offense to minimize any team specific effects that is inherent in the data. 
+The data that we have chosen to attempt to answer this research question is NFL play-by-play data for seasons 2002 - 2012. The play-by-play data includes a game ID, which quarter, which down, which teams, a play description, and the number of points scored.
+  \end{frame}
+  \begin{frame}
+    \frametitle{\centerline{NFL Go For It!}}
+\begin{figure}
+\begin{center}
+\includegraphics[width=1\textwidth]{OffRankperSeason.pdf}
+\end{center}
+\end{figure}
   \end{frame}
  \begin{frame}
     \frametitle{\centerline{NFL Go For It!}}
@@ -67,44 +77,36 @@ Then Decision $= argmax\{P, G, F\}$.
     \frametitle{\centerline{NFL Go For It!}}
 \begin{figure}
 \begin{center}
-\includegraphics[width=1\textwidth]{OffRankperSeason.pdf}
-\end{center}
-\end{figure}
-  \end{frame}
-  \begin{frame}
-    \frametitle{\centerline{NFL Go For It!}}
-\begin{figure}
-\begin{center}
 \includegraphics[width=1\textwidth]{fieldgoalprob.pdf}
 \end{center}
 \end{figure}
   \end{frame}
-  \begin{frame}
-    \frametitle{\centerline{NFL Go For It!}}
-\begin{figure}
-\begin{center}
-\includegraphics[width=1\textwidth]{ProbConv9.png}
-\end{center}
-\end{figure}
-  \end{frame}
-  \begin{frame}
-    \frametitle{\centerline{NFL Go For It!}}
-\begin{figure}
-\begin{center}
-\includegraphics[width=1\textwidth]{ProbConv6.png}
-\end{center}
-\end{figure}
-  \end{frame}
-  \begin{frame}
-    \frametitle{\centerline{NFL Go For It!}}
-\begin{figure}
-\begin{center}
-\includegraphics[width=1\textwidth]{ProbConv3.png}
-\end{center}
-\end{figure}
-  \end{frame}
-  \begin{frame}
-    \frametitle{\centerline{NFL Go For It!}}
+%  \begin{frame}
+%  \frametitle{\centerline{NFL Go For It!}}
+%\begin{figure}
+%\begin{center}
+%\includegraphics[width=1\textwidth]{ProbConv9.png}
+%\end{center}
+%\end{figure}
+%  \end{frame}
+%  \begin{frame}
+%    \frametitle{\centerline{NFL Go For It!}}
+%\begin{figure}
+%\begin{center}
+%\includegraphics[width=1\textwidth]{ProbConv6.png}
+%\end{center}
+%\end{figure}
+%  \end{frame}
+%  \begin{frame}
+%    \frametitle{\centerline{NFL Go For It!}}
+%\begin{figure}
+%\begin{center}
+%\includegraphics[width=1\textwidth]{ProbConv3.png}
+%\end{center}
+%\end{figure}
+%  \end{frame}
+ \begin{frame}
+   \frametitle{\centerline{NFL Go For It!}}
 \begin{figure}
 \begin{center}
 \includegraphics[width=1\textwidth]{ProbConv1.png}
@@ -169,5 +171,12 @@ Yard Line
 \includegraphics[width=1\textwidth]{GridBlock252522.png}
 \end{center}
 \end{figure}
+  \end{frame}
+\setbeamerfont{LargeFont}{size=\Large}
+\begin{frame}
+\usebeamerfont{LargeFont}
+\begin{center}
+\Large{Thank You!}
+\end{center}
   \end{frame}
 \end{document}
