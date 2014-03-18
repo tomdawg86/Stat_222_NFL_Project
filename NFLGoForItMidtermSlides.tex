@@ -5,18 +5,20 @@
 \setbeamercolor{frametitle}{fg=black}
 \begin{document}
   \begin{frame}
-    \frametitle{\centerline{NFL Go For It!}\\ \centerline{The Game}}
+    \frametitle{\centerline{NFL Go For It!}\\ \centerline{The 4th Down Decision}}
     %Frame 1
 \begin{figure}
 \begin{center}
 \includegraphics[width=1\textwidth]{FootballField.png}
 \end{center}
 \end{figure}
-In this project our goal is to help NFL coaches better determine when to attempt to go for a first down on a fourth down play.
+\begin{center}
+by Mike Ghirardo and Thomas McCann
+\end{center}
   \end{frame}
 \begin{frame}
  \frametitle{\centerline{NFL Go For It!}}
-In football there are many decisions a team needs to make in order to win the game. In this project we focus on the decision that needs to be made on the 4th down of any given play. There are three decisions to be made on the fourth down. \\
+In football there are many decisions a team needs to make in order to win the game. In this project we focus on those that need to be made on 4th down plays. Following are the three decisions to be made on the fourth down. \\
 \begin{enumerate}[1.]
 \item 
 Punt
@@ -28,7 +30,7 @@ Go for a first down
 \end{frame}
 \begin{frame}
  \frametitle{\centerline{NFL Go For It!}}
-We attempt to determine which decision should be made under certain conditions. The following are the conditions which we take into account in determining the decision.
+We attempt to determine which choice should be made under certain conditions. The following are the conditions which we take into account in determining the best action.
 \begin{enumerate}[1.]
 \item
 Offensive and defensive rank of the offensive team
@@ -39,7 +41,7 @@ The number of yards to convert a first down
 \item
 The field position
 \end{enumerate}
-With this information from the data we were able to estimate the expected points scored for each of the three decisions.\\
+With this information from the data we were able to estimate the expected points scored given each of the three decisions.\\
 Finally, with this information a decision can be made.
 \end{frame}
   \begin{frame}
@@ -65,6 +67,14 @@ Then Decision $= argmax\{P, G, F\}$.
     \frametitle{\centerline{NFL Go For It!}}
 \begin{figure}
 \begin{center}
+\includegraphics[width=1\textwidth]{OffRankperSeason.pdf}
+\end{center}
+\end{figure}
+  \end{frame}
+  \begin{frame}
+    \frametitle{\centerline{NFL Go For It!}}
+\begin{figure}
+\begin{center}
 \includegraphics[width=1\textwidth]{fieldgoalprob.pdf}
 \end{center}
 \end{figure}
@@ -73,7 +83,7 @@ Then Decision $= argmax\{P, G, F\}$.
     \frametitle{\centerline{NFL Go For It!}}
 \begin{figure}
 \begin{center}
-\includegraphics[width=1\textwidth]{gfi21more.png}
+\includegraphics[width=1\textwidth]{ProbConv9.png}
 \end{center}
 \end{figure}
   \end{frame}
@@ -81,7 +91,7 @@ Then Decision $= argmax\{P, G, F\}$.
     \frametitle{\centerline{NFL Go For It!}}
 \begin{figure}
 \begin{center}
-\includegraphics[width=1\textwidth]{gfiprob14-17.png}
+\includegraphics[width=1\textwidth]{ProbConv6.png}
 \end{center}
 \end{figure}
   \end{frame}
@@ -89,7 +99,7 @@ Then Decision $= argmax\{P, G, F\}$.
     \frametitle{\centerline{NFL Go For It!}}
 \begin{figure}
 \begin{center}
-\includegraphics[width=1\textwidth]{gfiprob6-7.png}
+\includegraphics[width=1\textwidth]{ProbConv3.png}
 \end{center}
 \end{figure}
   \end{frame}
@@ -97,7 +107,7 @@ Then Decision $= argmax\{P, G, F\}$.
     \frametitle{\centerline{NFL Go For It!}}
 \begin{figure}
 \begin{center}
-\includegraphics[width=1\textwidth]{gfiprob1-2.png}
+\includegraphics[width=1\textwidth]{ProbConv1.png}
 \end{center}
 \end{figure}
   \end{frame}
@@ -105,9 +115,9 @@ Then Decision $= argmax\{P, G, F\}$.
     \frametitle{\centerline{NFL Go For It!}}
 \begin{figure}
 \begin{center}
-Offense Ranking: Offensive 26, Defensive 30\\
-Defense Ranking: Offensive 5, Defensive 1
-\includegraphics[width=1\textwidth]{Decision3070263051.pdf}
+Offense Ranking: Offensive 1, Defensive 1\\
+Defense Ranking: Offensive 25, Defensive 25
+\includegraphics[width=1\textwidth]{Decision3070112525.pdf}
 \end{center}
 \end{figure}
   \end{frame}
@@ -115,9 +125,9 @@ Defense Ranking: Offensive 5, Defensive 1
     \frametitle{\centerline{NFL Go For It!}}
 \begin{figure}
 \begin{center}
-Offense Ranking: Offensive 1, Defensive 2\\
-Defense Ranking: Offensive 25, Defensive 20
-\includegraphics[width=1\textwidth]{Decision3070122520.pdf}
+Offense Ranking: Offensive 25, Defensive 25\\
+Defense Ranking: Offensive 1, Defensive 1
+\includegraphics[width=1\textwidth]{Decision3070252511.pdf}
 \end{center}
 \end{figure}
   \end{frame}
@@ -125,12 +135,38 @@ Defense Ranking: Offensive 25, Defensive 20
     \frametitle{\centerline{NFL Go For It!}\\ \centerline{What should my decision be?}}
 \begin{center}
 Offense Ranking: Offensive 1, Defensive 1\\
-Defense Ranking: Offensive 10, Defensive 10
+Defense Ranking: Offensive 25, Defensive 25
 \end{center}
 \begin{figure}
 \begin{center}
 Yard Line
-\includegraphics[width=1\textwidth]{FinalDecBlock111010.png}
+\includegraphics[width=1\textwidth]{GridBlock112525.png}
+\end{center}
+\end{figure}
+  \end{frame}
+\begin{frame}
+    \frametitle{\centerline{NFL Go For It!}\\ \centerline{What should my decision be?}}
+\begin{center}
+Offense Ranking: Offensive 15, Defensive 15\\
+Defense Ranking: Offensive 15, Defensive 15
+\end{center}
+\begin{figure}
+\begin{center}
+Yard Line
+\includegraphics[width=1\textwidth]{GridBlock15151515.png}
+\end{center}
+\end{figure}
+  \end{frame}
+\begin{frame}
+    \frametitle{\centerline{NFL Go For It!}\\ \centerline{What should my decision be?}}
+\begin{center}
+Offense Ranking: Offensive 25, Defensive 25\\
+Defense Ranking: Offensive 2, Defensive 2
+\end{center}
+\begin{figure}
+\begin{center}
+Yard Line
+\includegraphics[width=1\textwidth]{GridBlock252522.png}
 \end{center}
 \end{figure}
   \end{frame}
