@@ -22,7 +22,6 @@ fg_vec = [3.603047, -0.098109]
 
 gfi_vec = [0.580768, -0.119942, -0.007568, -0.455296, 0.011190, 0.484075]
 
-
 def init(ydline, ydtogo, oorank, odrank, ddrank, dorank):
     oorank1 = 2 if 5 <= oorank <= 30 else 3 if 31 <= oorank <= 32 else 0
     Ioorank = 1 if oorank1 == 0 else 1 if oorank1 == 3 else oorank
@@ -50,7 +49,7 @@ def prob(ydline, ydtogo, oorank, odrank, ddrank, dorank):
     ddrank_gfi = 4 if 5 <= ddrank <= 30 else 5 if 31 <= ddrank <= 32 else 0
     vec = [1, ydtogo, 0, 0, 0, 0]; vec[oorank_gfi] = Ioorank; vec[ddrank_gfi] = Iddrank
     fg = exp((1*fg_vec[0] + ydline*(fg_vec[1])))/(1 + exp((fg_vec[0] + ydline*(fg_vec[1]))))
-    gfi = exp((vec[0]*gfi_vec[0] + vec[1]*(gfi_vec[1]) + vec[2]*(gfi_vec[2]) * vec[3]*(gfi_vec[3]) + vec[4]*(gfi_vec[4]) + vec[5]*(gfi_vec[5]))/(1 + exp(vec[0]*gfi_vec[0] + vec[1]*(gfi_vec[1]) + vec[2]*(gfi_vec[2]) + vec[3]*(gfi_vec[3]) + vec[4]*(gfi_vec[4]) + vec[5]*(gfi_vec[5]))))
+    gfi = exp((vec[0]*gfi_vec[0] + vec[1]*(gfi_vec[1]) + vec[2]*(gfi_vec[2]) * vec[3]*(gfi_vec[3]) + vec[4]*(gfi_vec[4]) + vec[5]*(gfi_vec[5])))/(1 + exp(vec[0]*gfi_vec[0] + vec[1]*(gfi_vec[1]) + vec[2]*(gfi_vec[2]) + vec[3]*(gfi_vec[3]) + vec[4]*(gfi_vec[4]) + vec[5]*(gfi_vec[5])))
     X = {'fg': fg, 'gfi': gfi}
     return X
 
@@ -120,7 +119,7 @@ def test_init():
 def test_prob():
     result = prob(50, 10, 5, 5, 6, 6)
     print 'hello, this is a test; the value of result is', result
-    assert result == {'fg': 0.2137608737772787, 'gfi': 0.70135465607852432}
+    assert result == {'fg': 0.2137608737772787, 'gfi': 0.37054292453220239}
     
 def test_log_score():
     result = log_score(50, 10, 5, 5, 6, 6, [1, 10, 5, 0, 6, 0])
@@ -135,7 +134,7 @@ def test_log_punt():
 def test_gfi():
     result = gfi_expect(50, 10, 5, 5, 6, 6)
     print 'hello, this is a test; the value of result is', result
-    assert result == 0.6204848056967327
+    assert result == -0.90330920543553173
     
 def test_fg():
     result = fg_expect(50, 10, 5, 5, 6, 6)
@@ -150,4 +149,4 @@ def test_punt():
 def test_decision():
     result = decision(50, 10, 5, 5, 6, 6)
     print 'hello, this is a test; the value of result is', result
-    assert result == {'Field Goal': -1.9430718453559772, 'Go For It': 0.6204848056967327, 'Punt': -1.312820991036932}
+    assert result == {'Field Goal': -1.9430718453559772, 'Go For It': -0.90330920543553173, 'Punt': -1.312820991036932}
