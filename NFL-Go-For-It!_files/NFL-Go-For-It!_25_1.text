@@ -5,8 +5,8 @@
 Dep. Variable:                  score   No. Observations:                65105
 Model:                        MNLogit   Df Residuals:                    65081
 Method:                           MLE   Df Model:                           20
-Date:                Sun, 20 Apr 2014   Pseudo R-squ.:                 0.05169
-Time:                        22:56:31   Log-Likelihood:                -56801.
+Date:                Thu, 24 Apr 2014   Pseudo R-squ.:                 0.05169
+Time:                        23:01:18   Log-Likelihood:                -56801.
 converged:                       True   LL-Null:                       -59897.
                                         LLR p-value:                     0.000
 ================================================================================

@@ -5,8 +5,8 @@
 Dep. Variable:              converted   No. Observations:                 5494
 Model:                          Logit   Df Residuals:                     5488
 Method:                           MLE   Df Model:                            5
-Date:                Sun, 20 Apr 2014   Pseudo R-squ.:                 0.05691
-Time:                        22:58:14   Log-Likelihood:                -3588.1
+Date:                Thu, 24 Apr 2014   Pseudo R-squ.:                 0.05691
+Time:                        23:01:22   Log-Likelihood:                -3588.1
 converged:                       True   LL-Null:                       -3804.6
                                         LLR p-value:                 2.247e-91
 ================================================================================

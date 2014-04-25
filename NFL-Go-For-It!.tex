@@ -206,7 +206,7 @@
 
     % Document level variables
     \title{NFL-Go-For-It!}
-    \date{April 21, 2014}
+    \date{April 24, 2014}
     \release{}
     \author{Unknown Author}
     \renewcommand{\releasename}{}
@@ -234,7 +234,7 @@
 
 
         
-        \section{NFL Go For It!}\paragraph{by Mike Ghirardo and Thomas McCann}In football there are many decisions a team needs to make in order win
+        NFL Go For It! \textbackslash{}by Mike Ghirardo and Thomas McCann \textbackslash{}In football there are many decisions a team needs to make in order win
 the game. In this project we focus on the decision that needs to be made
 on the 4th down of any given play. There are three decisions to be made
 on the fourth down. 1. Punt the ball 2. Kick a field goal 3. Go for a
@@ -246,7 +246,6 @@ the defensive team. 3. The number of yards to convert for a first down.
 4. The field position started from. With this information from the data
 we were able to estimate the expected points scored for each of the of
 three decisions. Finally, with this information a decision can be made.
-
 
     
 
@@ -260,26 +259,14 @@ three decisions. Finally, with this information a decision can be made.
             
                 \begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
-\begin{alltt}The rmagic extension is already loaded. To reload it, use:
-  \%reload\_ext rmagic
-Populating the interactive namespace from numpy and matplotlib
-\end{alltt}
-
-            \end{InvisibleVerbatim}
-            
-                \begin{InvisibleVerbatim}
-                \vspace{-0.5\baselineskip}
-\begin{alltt}WARNING: pylab import has clobbered these variables: ['power',
-'draw\_if\_interactive', 'random', 'fft', 'linalg', 'info']
-`\%pylab --no-import-all` prevents importing * from pylab and numpy
+\begin{alltt}Populating the interactive namespace from numpy and matplotlib
 \end{alltt}
 
             \end{InvisibleVerbatim}
             
         
     
-\subsubsection{Importing NFL play-by-play data from years 2002 to 2012.}
-
+Importing NFL play-by-play data from years 2002 to 2012.
 
     
 
@@ -300,40 +287,30 @@ Populating the interactive namespace from numpy and matplotlib
             
         
     
-\subsubsection{Joining data sets together to get one long dataset of play-by-play data
-accross all 11 years.}
-
-\subsubsection{Taking out post-season games to get a more accurate ranking of teams.}
-
-\subsubsection{The following retrieves the first and last plays of each game. This will
+Joining data sets together to get one long dataset of play-by-play data
+accross all 11 years.
+Taking out post-season games to get a more accurate ranking of teams.
+The following retrieves the first and last plays of each game. This will
 be useful in helping us determine team ranks by how many points scored
-per game and how many points let go per game.}
-
-\subsubsection{The following sums points gained and points let go per game per team per
+per game and how many points let go per game.
+The following sums points gained and points let go per game per team per
 season. The means by which the teams are ranked offensively and
 defensively is taking the total number of points scored and total number
-of points let go and adding them.}
-
-\subsubsection{Creating a two matrices of the total points scored and total points let
+of points let go and adding them.
+Creating a two matrices of the total points scored and total points let
 go with the season as the column and the team as the row, and then
-ranking them to get the offensive and defensive ranks.}
-
-\subsubsection{Here we bring in the team rankings into the main data frame.}
-
-\subsubsection{Here we create dummy variables and factor variables concerning the
+ranking them to get the offensive and defensive ranks.
+Here we bring in the team rankings into the main data frame.
+Here we create dummy variables and factor variables concerning the
 ranking of teams. This will help us run a logistic regression using team
-ranking as covariates.}
+ranking as covariates.
 
 
-
-
-
-\subsubsection{The following gives drive by drive information. This information is
+The following gives drive by drive information. This information is
 useful in helping us know the expected number of points the offensive
 team will score given they started the first play of the drive on a
-specific yard line.}
-
-\subsubsection{The following code quantifies the consequences of certain events
+specific yard line.
+The following code quantifies the consequences of certain events
 occurring. We create a vector of the number of points scored at the end
 of a teams drive. We assume that touchdown plays automatically get seven
 points, which means we assume the team gets the extra point given they
@@ -341,8 +318,7 @@ score a touchdown. Then we run a multinomial logistic regression to
 determine the likelihood of these events based on certain factors, such
 as team rank and field position. With both pieces of information we
 determine the expected number points of a team given they convert a
-first down, their ranking and their field position.}
-
+first down, their ranking and their field position.
 
     
 
@@ -363,7 +339,7 @@ first down, their ranking and their field position.}
 
             \end{InvisibleVerbatim}
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}13{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}12{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
 \begin{alltt}<class 'statsmodels.iolib.summary.Summary'>
@@ -377,9 +353,9 @@ Model:                        MNLogit   Df Residuals:
 65081
 Method:                           MLE   Df Model:
 20
-Date:                Sun, 20 Apr 2014   Pseudo R-squ.:
+Date:                Thu, 24 Apr 2014   Pseudo R-squ.:
 0.05169
-Time:                        22:56:31   Log-Likelihood:
+Time:                        23:01:18   Log-Likelihood:
 -56801.
 converged:                       True   LL-Null:
 -59897.
@@ -467,7 +443,6 @@ defrank31t32     0.7186      0.355      2.023      0.043         0.023
     
 
 
-
     
 
         % If the first block is an image, minipage the image.  Else
@@ -478,7 +453,7 @@ defrank31t32     0.7186      0.355      2.023      0.043         0.023
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}14{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}13{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
 \begin{alltt}                  DefTD         FG   NoPoints         TD
@@ -495,13 +470,12 @@ defrank31t32   0.458122   0.321432   0.048783   0.718639
             
         
     
-\subsubsection{The following is code concerning the decision to punt. Here, we find all
+The following is code concerning the decision to punt. Here, we find all
 punt plays and using logistic regression we determine the probability of
 events happening given that the team making the decision punted the ball
 at a certain yard line. The other team receiveing the punt can then
 score an offensive touchdown or field goal, get no points or give up a
-defensive touchdown or safety.}
-
+defensive touchdown or safety.
 
     
 
@@ -522,7 +496,7 @@ defensive touchdown or safety.}
 
             \end{InvisibleVerbatim}
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}15{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}14{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
 \begin{alltt}<class 'statsmodels.iolib.summary.Summary'>
@@ -536,9 +510,9 @@ Model:                        MNLogit   Df Residuals:
 26247
 Method:                           MLE   Df Model:
 20
-Date:                Sun, 20 Apr 2014   Pseudo R-squ.:
+Date:                Thu, 24 Apr 2014   Pseudo R-squ.:
 0.03018
-Time:                        22:56:51   Log-Likelihood:
+Time:                        23:01:21   Log-Likelihood:
 -23149.
 converged:                       True   LL-Null:
 -23869.
@@ -626,7 +600,6 @@ defrank31t32          1.1201      0.485      2.311      0.021
     
 
 
-
     
 
         % If the first block is an image, minipage the image.  Else
@@ -637,7 +610,7 @@ defrank31t32          1.1201      0.485      2.311      0.021
 
             % Add document contents.
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}16{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}15{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
 \begin{alltt}                      DefTD        FG  NoPoints        TD
@@ -654,15 +627,13 @@ defrank31t32       0.255890  0.602383  0.258313  1.120144
             
         
     
-\subsubsection{The following code is used to pull out fourth down plays from the data.
+The following code is used to pull out fourth down plays from the data.
 This is important since we'll use plays from these downs to find the
 expected number of points given field goal attempt, punt attempt, or go
-for it attempt.}
-
-\subsubsection{Pulling out field goal attempt data and running a logistic regression to
+for it attempt.
+Pulling out field goal attempt data and running a logistic regression to
 determine the likelihood of converting depending on the yardline the
-field goal is attempted from.}
-
+field goal is attempted from.
 
     
 
@@ -683,7 +654,7 @@ field goal is attempted from.}
 
             \end{InvisibleVerbatim}
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}18{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}17{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
 \begin{alltt}<class 'statsmodels.iolib.summary.Summary'>
@@ -697,9 +668,9 @@ Model:                          Logit   Df Residuals:
 9648
 Method:                           MLE   Df Model:
 1
-Date:                Sun, 20 Apr 2014   Pseudo R-squ.:
+Date:                Thu, 24 Apr 2014   Pseudo R-squ.:
 0.1206
-Time:                        22:57:05   Log-Likelihood:
+Time:                        23:01:21   Log-Likelihood:
 -3957.4
 converged:                       True   LL-Null:
 -4500.1
@@ -724,11 +695,9 @@ ydline        -0.0981      0.003    -29.699      0.000        -0.105
         
     
 
-
-\subsubsection{The following pulls out the rankings of teams and yards to go to convert
+The following pulls out the rankings of teams and yards to go to convert
 on the fourth down. We also perform a logistic regression to determine
-the likelihood of converting given the rankings and yards to go.}
-
+the likelihood of converting given the rankings and yards to go.
 
     
 
@@ -749,7 +718,7 @@ the likelihood of converting given the rankings and yards to go.}
 
             \end{InvisibleVerbatim}
             
-                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}21{]}:\hspace{4pt}}\\*
+                \makebox[0.1\linewidth]{\smaller\hfill\tt\color{nbframe-out-prompt}Out\hspace{4pt}{[}19{]}:\hspace{4pt}}\\*
                 \vspace{-2.55\baselineskip}\begin{InvisibleVerbatim}
                 \vspace{-0.5\baselineskip}
 \begin{alltt}<class 'statsmodels.iolib.summary.Summary'>
@@ -763,9 +732,9 @@ Model:                          Logit   Df Residuals:
 5488
 Method:                           MLE   Df Model:
 5
-Date:                Sun, 20 Apr 2014   Pseudo R-squ.:
+Date:                Thu, 24 Apr 2014   Pseudo R-squ.:
 0.05691
-Time:                        22:58:14   Log-Likelihood:
+Time:                        23:01:22   Log-Likelihood:
 -3588.1
 converged:                       True   LL-Null:
 -3804.6
@@ -798,10 +767,9 @@ defrank31t32     0.4841      0.135      3.578      0.000         0.219
         
     
 
-
-\subsubsection{The following functions will be used to determine the choice to be made
+The following functions will be used to determine the choice to be made
 given yard line, yards to go, and both offensive and defensive rankings
-of the team making the decision as well as the other team.}
+of the team making the decision as well as the other team.
 
 
 
@@ -809,226 +777,333 @@ of the team making the decision as well as the other team.}
 
 
 
-
-
-
-
-
-
-
-
-\subsubsection{convert\_prob is a three dimensional matrix that gives the probability
+convert\_prob is a three dimensional matrix that gives the probability
 of the offensive team converting a first down given how many yards to go
 for the first down, the offensive rank of the offense and the defensive
-rank of the defense.}
+rank of the defense.
 
+The following is a plot of total points scored on offense per season per
+ranked team. Each color represents a different rank.
 
+    
 
-\subsubsection{The following is a plot of total points scored on offense per season per
-ranked team. Each color represents a different rank.}\subsubsection{fig, ax = plt.subplots() ax.plot(offrank\_pps.index,
-offrank\_pps{[}1{]}, label = ``Rank 1'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}2{]}, label = ``Rank 2'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}3{]}, label = ``Rank 3'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}4{]}, label = ``Rank 4'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}5{]}, label = ``Rank 5'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}6{]}, label = ``Rank 6'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}7{]}, label = ``Rank 7'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}8{]}, label = ``Rank 8'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}9{]}, label = ``Rank 9'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}10{]}, label = ``Rank 10'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}11{]}, label = ``Rank 11'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}12{]}, label = ``Rank 12'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}13{]}, label = ``Rank 13'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}14{]}, label = ``Rank 14'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}15{]}, label = ``Rank 15'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}16{]}, label = ``Rank 16'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}17{]}, label = ``Rank 17'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}18{]}, label = ``Rank 18'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}19{]}, label = ``Rank 19'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}20{]}, label = ``Rank 20'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}21{]}, label = ``Rank 21'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}22{]}, label = ``Rank 22'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}23{]}, label = ``Rank 23'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}24{]}, label = ``Rank 24'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}25{]}, label = ``Rank 25'') ax.plot(offrank\_pps.index,
-offrank\_pps{[}26{]}) ax.plot(offrank\_pps.index, offrank\_pps{[}27{]})
-ax.plot(offrank\_pps.index, offrank\_pps{[}28{]})
-ax.plot(offrank\_pps.index, offrank\_pps{[}29{]})
-ax.plot(offrank\_pps.index, offrank\_pps{[}30{]})
-ax.plot(offrank\_pps.index, offrank\_pps{[}31{]})
-ax.plot(offrank\_pps.index, offrank\_pps{[}32{]}) xlabel(``Season'')
-ylabel(``Total Points'') title(``Total Number of Points Scored per
-Offensive Rank per Season'') legend = ax.legend(loc=(.02, .02), fontsize
-= .5, frameon = True, borderpad = 10) for label in legend.get\_texts():
-label.set\_fontsize(`small') for label in legend.get\_lines():
-label.set\_linewidth(3) savefig(`OffRankperSeason.pdf') plt.show()}\subsubsection{The following is a plot of total points scored on a defense per season
-per ranked team. Each color represents a different rank.}\subsubsection{fig, ax = plt.subplots() ax.plot(defrank\_pps.index,
-defrank\_pps{[}1{]}, label = ``Rank 1'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}2{]}, label = ``Rank 2'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}3{]}, label = ``Rank 3'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}4{]}, label = ``Rank 4'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}5{]}, label = ``Rank 5'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}6{]}, label = ``Rank 6'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}7{]}, label = ``Rank 7'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}8{]}, label = ``Rank 8'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}9{]}, label = ``Rank 9'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}10{]}, label = ``Rank 10'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}11{]}, label = ``Rank 11'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}12{]}, label = ``Rank 12'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}13{]}, label = ``Rank 13'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}14{]}, label = ``Rank 14'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}15{]}, label = ``Rank 15'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}16{]}, label = ``Rank 16'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}17{]}, label = ``Rank 17'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}18{]}, label = ``Rank 18'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}19{]}, label = ``Rank 19'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}20{]}, label = ``Rank 20'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}21{]}, label = ``Rank 21'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}22{]}, label = ``Rank 22'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}23{]}, label = ``Rank 23'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}24{]}, label = ``Rank 24'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}25{]}, label = ``Rank 25'') ax.plot(defrank\_pps.index,
-defrank\_pps{[}26{]}) ax.plot(defrank\_pps.index, defrank\_pps{[}27{]})
-ax.plot(defrank\_pps.index, defrank\_pps{[}28{]})
-ax.plot(offrank\_pps.index, defrank\_pps{[}29{]})
-ax.plot(offrank\_pps.index, defrank\_pps{[}30{]})
-ax.plot(offrank\_pps.index, defrank\_pps{[}31{]})
-ax.plot(offrank\_pps.index, defrank\_pps{[}32{]}) xlabel(``Season'')
-ylabel(``Total Points Let Go'') title(``Total Number of Points Let Go
-per Rank per Season'') legend = ax.legend(loc=(.02, .02), fontsize = .5,
-frameon = True, borderpad = 10) for label in legend.get\_texts():
-label.set\_fontsize(`small') for label in legend.get\_lines():
-label.set\_linewidth(1.5) \# the legend line width
-savefig(`DefRankperSeason.pdf') plt.show()}\subsubsection{The following graph has probabilities of converting field goals on the
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+    \begin{center}
+    \includegraphics[max size={\textwidth}{\textheight}]{NFL-Go-For-It!_files/NFL-Go-For-It!_51_0.png}
+    \par
+    \end{center}
+    
+            \end{InvisibleVerbatim}
+            
+        
+    
+The following is a plot of total points scored on a defense per season
+per ranked team. Each color represents a different rank.
+
+    
+
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+    \begin{center}
+    \includegraphics[max size={\textwidth}{\textheight}]{NFL-Go-For-It!_files/NFL-Go-For-It!_53_0.png}
+    \par
+    \end{center}
+    
+            \end{InvisibleVerbatim}
+            
+        
+    
+The following graph has probabilities of converting field goals on the
 y-axis and the yardline the field goal is attempted from. In the midterm
 presentation the shading on the following graph was purely aesthetic.
 After creating vectors of the standard errors the following graph now
-contains the actual confidence interval.}\subsubsection{fg\_prob = field\_goal\_result.predict({[}{[}1, x{]} for x in yard{]},
-True) upper = {[}3.765, -0.092{]} lower = {[}3.441, -0.105{]}
-prob\_upper = {[}exp(3.765 -0.092\emph{g)/(1 + exp(3.765 -0.092}g)) for
-g in yard{]} prob\_lower = {[}exp(3.441 -0.105\emph{k)/(1 + exp(3.441
--0.105}k)) for k in yard{]} fig = plt.gcf() fig.set\_size\_inches(10,7)
-plt.plot(yard, np.array(fg\_prob), linestyle = `-') c1 =
-sns.color\_palette(``deep'', 2) plt.fill\_between(yard, prob\_lower,
-prob\_upper, color=c1, alpha=.2) xlabel(`Yard Line', size =
-``xx-large'') ylabel(`Probability of Field Goal', size = ``xx-large'')
-title(`Probability of making a Field Goal on the Fourth Down', size =
-``xx-large'') savefig(`fieldgoalprob.pdf')}\subsubsection{The following is the plot of the decision that should be made from the
+contains the actual confidence interval.
+
+    
+
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+    \begin{center}
+    \includegraphics[max size={\textwidth}{\textheight}]{NFL-Go-For-It!_files/NFL-Go-For-It!_55_0.png}
+    \par
+    \end{center}
+    
+            \end{InvisibleVerbatim}
+            
+        
+    
+The following is the plot of the decision that should be made from the
 30 yard line, where the offensive team has an outstanding ranking and
-the defensive team is ranked poorly.}\subsubsection{x = range(20) d2 = {[}decision(30, k, 1, 1, 25, 25) for k in x{]} d2 =
-pd.DataFrame(d2) fig, ax = plt.subplots() fig.set\_size\_inches(10, 7)
-ax.plot(d2.index, d2{[}`Field Goal'{]}, color = `r', label = ``Field
-Goal - 30 Yards'', linestyle = `-') ax.plot(d2.index, d2{[}`Go For
-It'{]}, color = `b', label = ``Go For It - 30 Yards'', linestyle = `-')
-ax.plot(d2.index, d2{[}`Punt'{]}, color = `g', label = ``Punt - 30
-Yards'', linestyle = `-') xlabel(``Yards To Go'', size = ``xx-large'')
-ylabel(``Expected Number of Points'', size = ``xx-large'')
-title(``Expected Number of Points Given Decision'', size = ``xx-large'')
-legend = ax.legend(loc=(.65, .7), fontsize = 2, frameon = True,
-borderpad = 10) ylim(ymax = 2.5, ymin = -2.5) for label in
-legend.get\_texts(): label.set\_fontsize(`large') for label in
-legend.get\_lines(): label.set\_linewidth(3)
-savefig(`Decision30112525.pdf') plt.show()}\subsubsection{The following is the plot of the decision that should be made from the
+the defensive team is ranked poorly.
+
+    
+
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+    \begin{center}
+    \includegraphics[max size={\textwidth}{\textheight}]{NFL-Go-For-It!_files/NFL-Go-For-It!_57_0.png}
+    \par
+    \end{center}
+    
+            \end{InvisibleVerbatim}
+            
+        
+    
+The following is the plot of the decision that should be made from the
 30 yard line, where the offensive team has an mediocre ranking and the
-defensive team is ranked mediocre.}\subsubsection{x = range(20) d4 = {[}decision(30, k, 15, 15, 15, 15) for k in x{]} d4 =
-pd.DataFrame(d4) fig, ax = plt.subplots() fig.set\_size\_inches(10, 7)
-ax.plot(d4.index, d4{[}`Field Goal'{]}, color = `r', label = ``Field
-Goal - 30 Yards'', linestyle = `-') ax.plot(d4.index, d4{[}`Go For
-It'{]}, color = `b', label = ``Go For It - 30 Yards'', linestyle = `-')
-ax.plot(d4.index, d4{[}`Punt'{]}, color = `g', label = ``Punt - 30
-Yards'', linestyle = `-') xlabel(``Yards To Go'', size = ``xx-large'')
-ylabel(``Expected Number of Points'', size = ``xx-large'')
-title(``Expected Number of Points Given Decision'', size = ``xx-large'')
-legend = ax.legend(loc=(.65, .7), fontsize = 2, frameon = True,
-borderpad = 10) for label in legend.get\_texts():
-label.set\_fontsize(`large') for label in legend.get\_lines():
-label.set\_linewidth(3) \# the legend line width
-savefig(`Decision3015151515.pdf') plt.show()}\subsubsection{The following is the plot of the decision that should be made from the
+defensive team is ranked mediocre.
+
+    
+
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+    \begin{center}
+    \includegraphics[max size={\textwidth}{\textheight}]{NFL-Go-For-It!_files/NFL-Go-For-It!_59_0.png}
+    \par
+    \end{center}
+    
+            \end{InvisibleVerbatim}
+            
+        
+    
+The following is the plot of the decision that should be made from the
 30 yard line, where the offensive team has a poor ranking and the
-defensive team is ranked highly.}\subsubsection{x = range(20) d6 = {[}decision(30, k, 25, 25, 1, 1) for k in x{]} d6 =
-pd.DataFrame(d6) fig, ax = plt.subplots() fig.set\_size\_inches(10, 7)
-ax.plot(d6.index, d6{[}`Field Goal'{]}, color = `r', label = ``Field
-Goal - 30 Yards'', linestyle = `-') ax.plot(d6.index, d6{[}`Go For
-It'{]}, color = `b', label = ``Go For It - 30 Yards'', linestyle = `-')
-ax.plot(d6.index, d6{[}`Punt'{]}, color = `g', label = ``Punt - 30
-Yards'', linestyle = `-') xlabel(``Yards To Go'', size = ``xx-large'')
-ylabel(``Expected Number of Points'', size = ``xx-large'')
-title(``Expected Number of Points Given Decision'', size = ``xx-large'')
-legend = ax.legend(loc=(.65, .855), fontsize = 2, frameon = True) for
-label in legend.get\_texts(): label.set\_fontsize(`large') for label in
-legend.get\_lines(): label.set\_linewidth(3) \# the legend line width
-savefig(`Decision30252511.pdf') plt.show()}
+defensive team is ranked highly.
 
-\subsubsection{The following gives the decision to be made given high ranking of the
-offensive team and poor ranking of the defensive team.}\subsubsection{od1 = 1 oo1 = 1 do1 = 25 dd1 = 25 final\_decision1 = pd.DataFrame(index
-= yard) for j in range(30): dec1 = {[}decision(k, j, oo1, od1, dd1, do1)
-for k in yard{]} final\_decision1{[}j{]} = pd.DataFrame({[}max(g, key =
-g.get) for g in dec1{]}) x1 = pd.DataFrame(index = range(100), columns =
-range(30)) for i in range(30): for j in range(100): if
-final\_decision1.loc{[}j,i{]} == `Go For It': x1.loc{[}j, i{]} = 0 elif
-final\_decision1.loc{[}j,i{]} == `Punt': x1.loc{[}j, i{]} = 1 else:
-x1.loc{[}j, i{]} = 2 mesh1 = np.meshgrid(np.array(x1.index),
-np.array(x1.columns)) Z1 = f(np.array(x1.index), np.array(x1.columns),
-x1) Z1 = np.array(Z1, dtype = float) Z1 = Z1.transpose() for i in
-range(30): for j in range(i + 1): Z1{[}i, j{]} = -1 plt.axes({[}1, 1, 2,
-2{]}) plt.imshow(Z1, cmap= `terrain\_r', origin=`lower')
-figtext(1.9,1.4, ``Yard Line'', family=`serif', size=`xx-large')
-figtext(0.83,1.9, ``Yards\n  To\n  Go'', family=`serif',
-size=`xx-large') figtext(1.75,2.55, ``Offense Rank: High\nDefense Rank:
-Poor'', family=`serif', size=`xx-large') figtext(2.35,2.23, ``Punt'',
-family=`serif', size=`xx-large', color=`black', weight = `bold')
-figtext(1.5,2.07, ``Field Goal'', family=`serif', size=`xx-large', color
-= `black', weight = `bold') figtext(1.9,1.77, ``Go For It'',
-family=`serif', size=`xx-large', color = `black', weight = `bold')
-plt.show()}\subsubsection{The following gives the decision to be made given mediocre ranking of
-the offensive team and mediocre ranking of the defensive team.}\subsubsection{od2 = 15 oo2 = 15 do2 = 15 dd2 = 15 final\_decision2 =
-pd.DataFrame(index = yard) for j in range(30): dec2 = {[}decision(k, j,
-oo2, od2, dd2, do2) for k in yard{]} final\_decision2{[}j{]} =
-pd.DataFrame({[}max(g, key = g.get) for g in dec2{]}) x2 =
-pd.DataFrame(index = range(100), columns = range(30)) for i in
-range(30): for j in range(100): if final\_decision2.loc{[}j,i{]} == `Go
-For It': x2.loc{[}j, i{]} = 0 elif final\_decision2.loc{[}j,i{]} ==
-`Punt': x2.loc{[}j, i{]} = 1 else: x2.loc{[}j, i{]} = 2 mesh2 =
-np.meshgrid(np.array(x2.index), np.array(x2.columns)) Z2 =
-f(np.array(x2.index), np.array(x2.columns), x2) Z2 = np.array(Z2, dtype
-= float) Z2 = Z2.transpose() for i in range(30): for j in range(i + 1):
-Z2{[}i, j{]} = -1 plt.axes({[}1, 1, 2, 2{]}) plt.imshow(Z2, cmap=
-`terrain\_r', origin=`lower') figtext(1.9,1.4, ``Yard Line'',
-family=`serif', size=`xx-large') figtext(0.83,1.9,
-``Yards\n  To\n  Go'', family=`serif', size=`xx-large')
-figtext(1.75,2.55, ``Offense Rank: Medium\nDefense Rank: Medium'',
-family=`serif', size=`xx-large') figtext(2.35,2.23, ``Punt'',
-family=`serif', size=`xx-large', color=`black', weight = `bold')
-figtext(1.5,2.07, ``Field Goal'', family=`serif', size=`xx-large', color
-= `black', weight = `bold') figtext(1.9,1.77, ``Go For It'',
-family=`serif', size=`xx-large', color = `black', weight = `bold')
-plt.show()}\subsubsection{The following gives the decision to be made given poor ranking of the
-offensive team and high ranking of the defensive team.}\subsubsection{od3 = 25 oo3 = 25 do3 = 2 dd3 = 2 final\_decision3 = pd.DataFrame(index
-= yard) for j in range(30): dec3 = {[}decision(k, j, oo3, od3, dd3, do3)
-for k in yard{]} final\_decision3{[}j{]} = pd.DataFrame({[}max(g, key =
-g.get) for g in dec3{]}) x3 = pd.DataFrame(index = range(100), columns =
-range(30)) for i in range(30): for j in range(100): if
-final\_decision3.loc{[}j,i{]} == `Go For It': x3.loc{[}j, i{]} = 0 elif
-final\_decision3.loc{[}j,i{]} == `Punt': x3.loc{[}j, i{]} = 1 else:
-x3.loc{[}j, i{]} = 2 mesh3 = np.meshgrid(np.array(x3.index),
-np.array(x3.columns)) Z3 = f(np.array(x3.index), np.array(x3.columns),
-x3) Z3 = np.array(Z3, dtype = float) Z3 = Z3.transpose() for i in
-range(30): for j in range(i + 1): Z3{[}i, j{]} = -1 plt.axes({[}1, 1, 2,
-2{]}) plt.imshow(Z3, cmap= `terrain\_r', origin=`lower')
-figtext(1.9,1.4, ``Yard Line'', family=`serif', size=`xx-large')
-figtext(0.83,1.9, ``Yards\n  To\n  Go'', family=`serif',
-size=`xx-large') figtext(1.75,2.55, ``Offense Rank: Poor\nDefense Rank:
-High'', family=`serif', size=`xx-large') figtext(2.35,2.23, ``Punt'',
-family=`serif', size=`xx-large', color=`black', weight = `bold')
-figtext(1.5,2.07, ``Field Goal'', family=`serif', size=`xx-large', color
-= `black', weight = `bold') figtext(1.9,1.77, ``Go For It'',
-family=`serif', size=`xx-large', color = `black', weight = `bold')
-plt.show()}\subsubsection{The following shows the probability of conversion of firt down per
-offensive and defensive rankings with 1 yard to go.}\subsubsection{}\subsubsection{The following shows the probability of conversion of first down per
-offensive and defensive rankings with 3 yard to go.}\subsubsection{}\subsubsection{The following shows the probability of conversion of firt down per
-offensive and defensive rankings with 6 yard to go.}\subsubsection{}\subsubsection{The following shows the probability of conversion of firt down per
-offensive and defensive rankings with 9 yard to go.}\subsubsection{}
+    
 
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+    \begin{center}
+    \includegraphics[max size={\textwidth}{\textheight}]{NFL-Go-For-It!_files/NFL-Go-For-It!_61_0.png}
+    \par
+    \end{center}
+    
+            \end{InvisibleVerbatim}
+            
+        
+    
+
+The following gives the decision to be made given high ranking of the
+offensive team and poor ranking of the defensive team.
+
+
+    
+
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+    \begin{center}
+    \includegraphics[max size={\textwidth}{\textheight}]{NFL-Go-For-It!_files/NFL-Go-For-It!_65_0.png}
+    \par
+    \end{center}
+    
+            \end{InvisibleVerbatim}
+            
+        
+    
+The following gives the decision to be made given mediocre ranking of
+the offensive team and mediocre ranking of the defensive team.
+
+
+    
+
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+    \begin{center}
+    \includegraphics[max size={\textwidth}{\textheight}]{NFL-Go-For-It!_files/NFL-Go-For-It!_68_0.png}
+    \par
+    \end{center}
+    
+            \end{InvisibleVerbatim}
+            
+        
+    
+The following gives the decision to be made given poor ranking of the
+offensive team and high ranking of the defensive team.
+
+
+    
+
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+    \begin{center}
+    \includegraphics[max size={\textwidth}{\textheight}]{NFL-Go-For-It!_files/NFL-Go-For-It!_71_0.png}
+    \par
+    \end{center}
+    
+            \end{InvisibleVerbatim}
+            
+        
+    
+The following shows the probability of conversion of first down per
+offensive and defensive rankings with 1 yard to go.
+
+    
+
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+    \begin{center}
+    \includegraphics[max size={\textwidth}{\textheight}]{NFL-Go-For-It!_files/NFL-Go-For-It!_73_0.png}
+    \par
+    \end{center}
+    
+            \end{InvisibleVerbatim}
+            
+        
+    
+The following shows the probability of conversion of first down per
+offensive and defensive rankings with 3 yard to go.
+
+    
+
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+    \begin{center}
+    \includegraphics[max size={\textwidth}{\textheight}]{NFL-Go-For-It!_files/NFL-Go-For-It!_75_0.png}
+    \par
+    \end{center}
+    
+            \end{InvisibleVerbatim}
+            
+        
+    
+The following shows the probability of conversion of firt down per
+offensive and defensive rankings with 6 yard to go.
+
+    
+
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+    \begin{center}
+    \includegraphics[max size={\textwidth}{\textheight}]{NFL-Go-For-It!_files/NFL-Go-For-It!_77_0.png}
+    \par
+    \end{center}
+    
+            \end{InvisibleVerbatim}
+            
+        
+    
+The following shows the probability of conversion of firt down per
+offensive and defensive rankings with 9 yard to go.
+
+    
+
+        % If the first block is an image, minipage the image.  Else
+        % request a certain amount of space for the input text.
+        \needspace{4\baselineskip}
+        
+        
+
+            % Add document contents.
+            
+                \begin{InvisibleVerbatim}
+                \vspace{-0.5\baselineskip}
+    \begin{center}
+    \includegraphics[max size={\textwidth}{\textheight}]{NFL-Go-For-It!_files/NFL-Go-For-It!_79_0.png}
+    \par
+    \end{center}
+    
+            \end{InvisibleVerbatim}
+            
+        
+    
 
         
 

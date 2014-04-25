@@ -1,3 +1,1 @@
-The rmagic extension is already loaded. To reload it, use:
-  %reload_ext rmagic
 Populating the interactive namespace from numpy and matplotlib
