@@ -1,0 +1,18 @@
+<class 'statsmodels.iolib.summary.Summary'>
+"""
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:              converted   No. Observations:                 9650
+Model:                          Logit   Df Residuals:                     9648
+Method:                           MLE   Df Model:                            1
+Date:                Sun, 20 Apr 2014   Pseudo R-squ.:                  0.1206
+Time:                        22:57:05   Log-Likelihood:                -3957.4
+converged:                       True   LL-Null:                       -4500.1
+                                        LLR p-value:                5.246e-238
+==============================================================================
+                 coef    std err          z      P>|z|      [95.0% Conf. Int.]
+------------------------------------------------------------------------------
+intercept      3.6030      0.083     43.532      0.000         3.441     3.765
+ydline        -0.0981      0.003    -29.699      0.000        -0.105    -0.092
+==============================================================================
+"""

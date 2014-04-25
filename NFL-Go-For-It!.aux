@@ -1,0 +1,55 @@
+\relax 
+\providecommand\zref@newlabel[2]{}
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand \oddpage@label [2]{}
+\select@language{english}
+\@writefile{toc}{\select@language{english}}
+\@writefile{lof}{\select@language{english}}
+\@writefile{lot}{\select@language{english}}
+\@writefile{toc}{\contentsline {section}{\numberline {1}NFL Go For It!}{1}{section.1}}
+\@writefile{toc}{\contentsline {paragraph}{by Mike Ghirardo and Thomas McCann}{1}{paragraph*.1}}
+\pgfsyspdfmark {pgfid1}{7815060}{23393794}
+\pgfsyspdfmark {pgfid2}{7815060}{20226130}
+\@writefile{toc}{\contentsline {subsubsection}{Importing NFL play-by-play data from years 2002 to 2012.}{1}{subsubsection*.2}}
+\pgfsyspdfmark {pgfid3}{7815060}{46356907}
+\@writefile{toc}{\contentsline {subsubsection}{Joining data sets together to get one long dataset of play-by-play data accross all 11 years.}{2}{subsubsection*.3}}
+\@writefile{toc}{\contentsline {subsubsection}{Taking out post-season games to get a more accurate ranking of teams.}{2}{subsubsection*.4}}
+\@writefile{toc}{\contentsline {subsubsection}{The following retrieves the first and last plays of each game. This will be useful in helping us determine team ranks by how many points scored per game and how many points let go per game.}{2}{subsubsection*.5}}
+\@writefile{toc}{\contentsline {subsubsection}{The following sums points gained and points let go per game per team per season. The means by which the teams are ranked offensively and defensively is taking the total number of points scored and total number of points let go and adding them.}{2}{subsubsection*.6}}
+\@writefile{toc}{\contentsline {subsubsection}{Creating a two matrices of the total points scored and total points let go with the season as the column and the team as the row, and then ranking them to get the offensive and defensive ranks.}{2}{subsubsection*.7}}
+\@writefile{toc}{\contentsline {subsubsection}{Here we bring in the team rankings into the main data frame.}{2}{subsubsection*.8}}
+\@writefile{toc}{\contentsline {subsubsection}{Here we create dummy variables and factor variables concerning the ranking of teams. This will help us run a logistic regression using team ranking as covariates.}{2}{subsubsection*.9}}
+\@writefile{toc}{\contentsline {subsubsection}{The following gives drive by drive information. This information is useful in helping us know the expected number of points the offensive team will score given they started the first play of the drive on a specific yard line.}{2}{subsubsection*.10}}
+\@writefile{toc}{\contentsline {subsubsection}{The following code quantifies the consequences of certain events occurring. We create a vector of the number of points scored at the end of a teams drive. We assume that touchdown plays automatically get seven points, which means we assume the team gets the extra point given they score a touchdown. Then we run a multinomial logistic regression to determine the likelihood of these events based on certain factors, such as team rank and field position. With both pieces of information we determine the expected number points of a team given they convert a first down, their ranking and their field position.}{2}{subsubsection*.11}}
+\pgfsyspdfmark {pgfid4}{7815060}{17478452}
+\pgfsyspdfmark {pgfid5}{7815060}{5278938}
+\pgfsyspdfmark {pgfid6}{7815060}{4466283}
+\pgfsyspdfmark {pgfid7}{7815060}{28515049}
+\pgfsyspdfmark {pgfid8}{7815060}{21019700}
+\@writefile{toc}{\contentsline {subsubsection}{The following is code concerning the decision to punt. Here, we find all punt plays and using logistic regression we determine the probability of events happening given that the team making the decision punted the ball at a certain yard line. The other team receiveing the punt can then score an offensive touchdown or field goal, get no points or give up a defensive touchdown or safety.}{4}{subsubsection*.12}}
+\pgfsyspdfmark {pgfid9}{7815060}{12041517}
+\pgfsyspdfmark {pgfid10}{7815060}{5256263}
+\pgfsyspdfmark {pgfid11}{7815060}{4466283}
+\pgfsyspdfmark {pgfid12}{7815060}{23010025}
+\pgfsyspdfmark {pgfid13}{7815060}{15514676}
+\@writefile{toc}{\contentsline {subsubsection}{The following code is used to pull out fourth down plays from the data. This is important since we'll use plays from these downs to find the expected number of points given field goal attempt, punt attempt, or go for it attempt.}{6}{subsubsection*.13}}
+\@writefile{toc}{\contentsline {subsubsection}{Pulling out field goal attempt data and running a logistic regression to determine the likelihood of converting depending on the yardline the field goal is attempted from.}{6}{subsubsection*.14}}
+\pgfsyspdfmark {pgfid14}{7815060}{44679183}
+\pgfsyspdfmark {pgfid15}{7815060}{18779699}
+\@writefile{toc}{\contentsline {subsubsection}{The following pulls out the rankings of teams and yards to go to convert on the fourth down. We also perform a logistic regression to determine the likelihood of converting given the rankings and yards to go.}{7}{subsubsection*.15}}
+\pgfsyspdfmark {pgfid16}{7815060}{11374380}
+\pgfsyspdfmark {pgfid17}{7815060}{5466322}

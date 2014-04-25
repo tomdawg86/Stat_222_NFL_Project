@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  19 MAR 2014 14:57
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  24 APR 2014 18:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1046,148 +1046,177 @@ Overfull \hbox (17.07181pt too wide) in paragraph at lines 87--87
 
 [7
 
- <./DefRankperSeason.pdf>] <fieldgoalprob.pdf, id=285, 433.62pt x 289.08pt>
+ <./DefRankperSeason.pdf>] <fieldgoalprob.pdf, id=285, 722.7pt x 505.89pt>
 File: fieldgoalprob.pdf Graphic file (type pdf)
 
 <use fieldgoalprob.pdf>
 Package pdftex.def Info: fieldgoalprob.pdf used on input line 97.
-(pdftex.def)             Requested size: 307.28987pt x 204.86888pt.
+(pdftex.def)             Requested size: 307.28987pt x 215.1046pt.
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 97--97
  []|[]|  
  []
 
+
+Overfull \vbox (7.83145pt too high) detected at line 97
+ []
+
 [8
 
- <./fieldgoalprob.pdf>] <ProbConv9.png, id=351, 1371.1225pt x 742.775pt>
-File: ProbConv9.png Graphic file (type png)
+ <./fieldgoalprob.pdf>] <z1plot.png, id=351, 481.8pt x 481.8pt>
+File: z1plot.png Graphic file (type png)
 
-<use ProbConv9.png>
-Package pdftex.def Info: ProbConv9.png used on input line 105.
-(pdftex.def)             Requested size: 307.28987pt x 166.4598pt.
+<use z1plot.png>
+Package pdftex.def Info: z1plot.png used on input line 105.
+(pdftex.def)             Requested size: 307.28987pt x 307.29965pt.
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 105--105
  []|[]|  
  []
 
+
+Overfull \vbox (74.4265pt too high) detected at line 105
+ []
+
 [9
 
- <./ProbConv9.png (PNG copy)>]
-<ProbConv6.png, id=377, 1371.1225pt x 742.775pt>
-File: ProbConv6.png Graphic file (type png)
- <use ProbConv6.png>
-Package pdftex.def Info: ProbConv6.png used on input line 113.
-(pdftex.def)             Requested size: 307.28987pt x 166.4598pt.
+ <./z1plot.png>] <z2plot.png, id=379, 481.8pt x 481.8pt>
+File: z2plot.png Graphic file (type png)
+ <use z2plot.png>
+Package pdftex.def Info: z2plot.png used on input line 113.
+(pdftex.def)             Requested size: 307.28987pt x 307.29965pt.
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 113--113
  []|[]|  
  []
 
+
+Overfull \vbox (74.4265pt too high) detected at line 113
+ []
+
 [10
 
- <./ProbConv6.png (PNG copy)>]
-<ProbConv3.png, id=403, 1371.1225pt x 742.775pt>
-File: ProbConv3.png Graphic file (type png)
- <use ProbConv3.png>
-Package pdftex.def Info: ProbConv3.png used on input line 121.
-(pdftex.def)             Requested size: 307.28987pt x 166.4598pt.
+ <./z2plot.png>] <z3plot.png, id=406, 481.8pt x 481.8pt>
+File: z3plot.png Graphic file (type png)
+ <use z3plot.png>
+Package pdftex.def Info: z3plot.png used on input line 121.
+(pdftex.def)             Requested size: 307.28987pt x 307.29965pt.
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 121--121
  []|[]|  
  []
 
+
+Overfull \vbox (74.4265pt too high) detected at line 121
+ []
+
 [11
 
- <./ProbConv3.png (PNG copy)>]
-<ProbConv1.png, id=429, 1371.1225pt x 742.775pt>
-File: ProbConv1.png Graphic file (type png)
- <use ProbConv1.png>
-Package pdftex.def Info: ProbConv1.png used on input line 129.
-(pdftex.def)             Requested size: 307.28987pt x 166.4598pt.
+ <./z3plot.png>] <z4plot.png, id=433, 481.8pt x 481.8pt>
+File: z4plot.png Graphic file (type png)
+ <use z4plot.png>
+Package pdftex.def Info: z4plot.png used on input line 129.
+(pdftex.def)             Requested size: 307.28987pt x 307.29965pt.
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 129--129
  []|[]|  
  []
 
+
+Overfull \vbox (74.4265pt too high) detected at line 129
+ []
+
 [12
 
- <./ProbConv1.png (PNG copy)>]
-<Decision30112525.pdf, id=456, 433.62pt x 289.08pt>
+ <./z4plot.png>] <Decision30112525.pdf, id=461, 722.7pt x 505.89pt>
 File: Decision30112525.pdf Graphic file (type pdf)
- <use Decision30112525.pdf>
+
+<use Decision30112525.pdf>
 Package pdftex.def Info: Decision30112525.pdf used on input line 139.
-(pdftex.def)             Requested size: 307.28987pt x 204.86888pt.
+(pdftex.def)             Requested size: 307.28987pt x 215.1046pt.
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 139--139
  []|[]|  
  []
 
+
+Overfull \vbox (9.43146pt too high) detected at line 139
+ []
+
 [13
 
  <./Decision30112525.pdf>]
-<Decision3015151515.pdf, id=524, 433.62pt x 289.08pt>
+<Decision3015151515.pdf, id=529, 722.7pt x 505.89pt>
 File: Decision3015151515.pdf Graphic file (type pdf)
 
 <use Decision3015151515.pdf>
 Package pdftex.def Info: Decision3015151515.pdf used on input line 149.
-(pdftex.def)             Requested size: 307.28987pt x 204.86888pt.
+(pdftex.def)             Requested size: 307.28987pt x 215.1046pt.
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 149--149
  []|[]|  
  []
 
+
+Overfull \vbox (9.43146pt too high) detected at line 149
+ []
+
 [14
 
  <./Decision3015151515.pdf>]
-<Decision30252511.pdf, id=592, 433.62pt x 289.08pt>
+<Decision30252511.pdf, id=597, 722.7pt x 505.89pt>
 File: Decision30252511.pdf Graphic file (type pdf)
  <use Decision30252511.pdf>
 Package pdftex.def Info: Decision30252511.pdf used on input line 159.
-(pdftex.def)             Requested size: 307.28987pt x 204.86888pt.
+(pdftex.def)             Requested size: 307.28987pt x 215.1046pt.
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 159--159
  []|[]|  
  []
 
+
+Overfull \vbox (9.43146pt too high) detected at line 159
+ []
+
 [15
 
  <./Decision30252511.pdf>]
-<GridBlock112525.png, id=660, 1003.75pt x 328.22626pt>
+<GridBlock112525.png, id=665, 1021.8175pt x 397.485pt>
 File: GridBlock112525.png Graphic file (type png)
 
 <use GridBlock112525.png>
-Package pdftex.def Info: GridBlock112525.png used on input line 172.
-(pdftex.def)             Requested size: 307.28987pt x 100.48198pt.
+Package pdftex.def Info: GridBlock112525.png used on input line 168.
+(pdftex.def)             Requested size: 307.28987pt x 119.53148pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 172--172
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 168--168
  []|[]  
  []
 
 [16
 
  <./GridBlock112525.png>]
-<GridBlock15151515.png, id=689, 1006.76125pt x 329.23pt>
+<GridBlock15151515.png, id=692, 1049.9225pt x 396.48125pt>
 File: GridBlock15151515.png Graphic file (type png)
 
 <use GridBlock15151515.png>
-Package pdftex.def Info: GridBlock15151515.png used on input line 185.
-(pdftex.def)             Requested size: 307.28987pt x 100.48784pt.
+Package pdftex.def Info: GridBlock15151515.png used on input line 177.
+(pdftex.def)             Requested size: 307.28987pt x 116.04138pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 185--185
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 177--177
  []|[]  
  []
 
 [17
 
  <./GridBlock15151515.png>]
-<GridBlock252522.png, id=716, 1011.78pt x 330.23375pt>
+<GridBlock252522.png, id=718, 1035.87pt x 398.48875pt>
 File: GridBlock252522.png Graphic file (type png)
 
 <use GridBlock252522.png>
-Package pdftex.def Info: GridBlock252522.png used on input line 198.
-(pdftex.def)             Requested size: 307.28987pt x 100.29535pt.
+Package pdftex.def Info: GridBlock252522.png used on input line 186.
+(pdftex.def)             Requested size: 307.28987pt x 118.20984pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 198--198
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 186--186
  []|[]  
  []
 
@@ -1205,11 +1234,11 @@ Overfull \hbox (17.07181pt too wide) in paragraph at lines 198--198
 \tf@snm=\write8
 \openout8 = `NFLGoForItMidtermSlides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 194.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 194.
  (./NFLGoForItMidtermSlides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 194.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 194.
 Package rerunfilecheck Info: File `NFLGoForItMidtermSlides.out' has not changed
 .
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1218,11 +1247,11 @@ Package rerunfilecheck Info: File `NFLGoForItMidtermSlides.out' has not changed
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 206.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 194.
  ) 
 Here is how much of TeX's memory you used:
  16835 strings out of 493488
- 309749 string characters out of 3141326
+ 309689 string characters out of 3141326
  471970 words of memory out of 3000000
  19688 multiletter control sequences out of 15000+200000
  10776 words of font info for 42 fonts, out of 3000000 for 9000
@@ -1237,9 +1266,9 @@ ocal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
 al/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/
 texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on NFLGoForItMidtermSlides.pdf (19 pages, 1955352 bytes).
+Output written on NFLGoForItMidtermSlides.pdf (19 pages, 1673287 bytes).
 PDF statistics:
- 809 PDF objects out of 1000 (max. 8388607)
+ 810 PDF objects out of 1000 (max. 8388607)
  542 compressed objects within 6 object streams
  39 named destinations out of 1000 (max. 500000)
  113 words of extra memory for PDF output out of 10000 (max. 10000000)

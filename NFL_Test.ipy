@@ -1,0 +1,87 @@
+
+import io
+from IPython.nbformat import current
+import os
+import csv
+import math
+import numpy as np
+import pandas as pd
+import statsmodels.formula.api as sm
+import seaborn as sns
+import pylab as pl
+
+Punt = [[-2.505152, -2.087459, 1.306882, -1.127434], [0.050217, 0.087383, 0.060661, 0.080226], [0.007299, -0.001777, 0.013215, -0.016401], [-0.166807, -0.942778, -0.397772, -1.485986], [0.018914, 0.028430, 0.014893, 0.038073], [0.255890, 0.602383, 0.258313, 1.120144]]
+Punt = pd.DataFrame(Punt)
+Punt.columns = ["DefTD","FG","NoPoints","TD"]
+Punt.index = ["intercept", "removelast_ydline", "offrankMid", "offrank31t32", "defrankMid", "defrank31t32"]
+
+score = [[17.102051, 23.383689, 22.702956, 23.697687], [-0.189247, -0.238087, -0.204967, -0.234290], [0.006484, -0.005221, 0.007977, -0.020917], [0.023844, -0.741291, -0.249409, -1.376970], [0.010301, 0.021678, 0.010377, 0.030189], [0.458122, 0.321432, 0.048783, 0.718639]]
+score = pd.DataFrame(score)
+score.columns = ["DefTD","FG","NoPoints","TD"]
+score.index = ["intercept", "ydline", "offrankMid", "offrank31t32", "defrankMid", "defrank31t32"]
+
+fg_vec = [3.603047, -0.098109]
+
+gfi_vec = [0.580768, -0.119942, -0.007568, -0.455296, 0.011190, 0.484075]
+
+def run_notebook(fname, ncells):
+    f = io.open(fname, 'r', encoding='utf-8')
+    nb = current.read(f, 'json')
+    vec = range(len(nb.worksheets[0].cells))
+    trues = np.array([0]*len(nb.worksheets[0].cells))
+    for i in vec:
+        if nb.worksheets[0].cells[i]['cell_type'] == 'code':
+            trues[i] = 1
+            
+    c = [range(len(nb.worksheets[0].cells))]*(trues == 1)
+    c = c[c > 0][ncells]
+    for i in c:
+        if nb.worksheets[0].cells[i]['cell_type'] == 'code':
+            get_ipython().run_cell(nb.worksheets[0].cells[i].input)
+            print i
+
+    return
+
+run_notebook("NFL-Go-For-It!.ipynb", range(21,29))
+
+
+
+def test_init():
+    result = init(50, 10, 5, 5, 6, 6)
+    print 'This is a test; the value of result is', result
+    assert result == {'20': [1, 80, 6, 0, 5, 0], 'def_score': [1, 100, 6, 0, 5, 0], 'fg_fail': [1, 43, 6, 0, 5, 0], 'gfi_fail': [1, 50, 6, 0, 5, 0],'off': [1, 40, 5, 0, 6, 0], 'punt': [1, 50, 6, 0, 5, 0]} 
+    
+def test_prob():
+    result = prob(50, 10, 5, 5, 6, 6)
+    print 'hello, this is a test; the value of result is', result
+    assert result == {'fg': 0.2137608737772787, 'gfi': 0.37054292453220239}
+    
+def test_log_score():
+    result = log_score(50, 10, 5, 5, 6, 6, [1, 10, 5, 0, 6, 0])
+    print 'hello, this is a test; the value of result is', result
+    assert result == {'DefSafety': 2.2052541609623836e-10, 'DefTD': 0.00097682683621591582, 'FG': 0.32360677361954143, 'NoPoints': 0.22773441808312658, 'TD': 0.44768198124059067}
+
+def test_log_punt():
+    result = log_punt(50, 10, 5, 5, 6, 6, [1, 10, 5, 0, 6, 0])
+    print 'hello, this is a test; the value of result is', result
+    assert result == {'DefSafety': 0.097478634178799317, 'DefTD': 0.015281305481536707, 'FG': 0.034045546032633892, 'NoPoints': 0.77167094133367564, 'TD': 0.081523572973354372}
+    
+def test_gfi():
+    result = gfi_expect(50, 10, 5, 5, 6, 6)
+    print 'hello, this is a test; the value of result is', result
+    assert result == -0.90330920543553173
+    
+def test_fg():
+    result = fg_expect(50, 10, 5, 5, 6, 6)
+    print 'hello, this is a test; the value of result is', result
+    assert result == -1.9430718453559772
+    
+def test_punt():
+    result = punt_expect(50, 10, 5, 5, 6, 6)
+    print 'hello, this is a test; the value of result is', result
+    assert result == -1.312820991036932
+    
+def test_decision():
+    result = decision(50, 10, 5, 5, 6, 6)
+    print 'hello, this is a test; the value of result is', result
+    assert result == {'Field Goal': -1.9430718453559772, 'Go For It': -0.90330920543553173, 'Punt': -1.312820991036932}
