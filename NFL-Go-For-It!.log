@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  28 APR 2014 22:54
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  3 MAY 2014 22:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1652,936 +1652,1701 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 231.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-)
+) [1
+
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 260.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 262.
+(mdframed)             works with oneside mode on input line 395.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 397.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 282.
+(mdframed)             works with oneside mode on input line 417.
+ [2]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 333.
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 343.
+(mdframed)             works with oneside mode on input line 450.
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 348--348
+<NFL-Go-For-It!_files/NFL-Go-For-It!_19_0.png, id=42, 396.48125pt x 282.05376pt
+>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_19_0.png Graphic file (type png)
+ <use NFL-Go-For-It!_files/NFL-Go-For-It!_19_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_19_0.png used on i
+nput line 453.
+(pdftex.def)             Requested size: 396.48027pt x 282.05305pt.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 495.
+
+<NFL-Go-For-It!_files/NFL-Go-For-It!_24_0.png, id=44, 399.4925pt x 282.05376pt>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_24_0.png Graphic file (type png)
+<use NFL-Go-For-It!_files/NFL-Go-For-It!_24_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_24_0.png used on i
+nput line 498.
+(pdftex.def)             Requested size: 399.49152pt x 282.05305pt.
+
+Overfull \vbox (147.60571pt too high) detected at line 502
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 502.
+
+Overfull \vbox (225.0086pt too high) detected at line 502
+ []
+
+
+Overfull \vbox (164.80579pt too high) detected at line 502
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 502.
+
+Overfull \vbox (250.80872pt too high) detected at line 502
+ []
+
+
+Overfull \vbox (182.00586pt too high) detected at line 502
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 502.
+
+Overfull \vbox (276.60883pt too high) detected at line 502
+ []
+
+
+Overfull \vbox (199.20593pt too high) detected at line 502
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 502.
+
+Overfull \vbox (302.40894pt too high) detected at line 502
+ []
+
+
+Overfull \vbox (216.406pt too high) detected at line 502
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 502.
+
+Overfull \vbox (328.20905pt too high) detected at line 502
+ []
+
+
+Overfull \vbox (233.60608pt too high) detected at line 502
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 502.
+
+Overfull \vbox (354.00916pt too high) detected at line 502
+ []
+
+
+Overfull \vbox (250.80615pt too high) detected at line 502
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 502.
+
+Overfull \vbox (379.80927pt too high) detected at line 502
+ []
+
+
+Overfull \vbox (268.00623pt too high) detected at line 502
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 502.
+
+Overfull \vbox (405.60938pt too high) detected at line 502
+ []
+
+
+Overfull \vbox (285.2063pt too high) detected at line 502
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 502.
+
+Overfull \vbox (431.40948pt too high) detected at line 502
+ []
+
+
+Overfull \vbox (302.40637pt too high) detected at line 502
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 502.
+
+Overfull \vbox (457.2096pt too high) detected at line 502
+ []
+
+
+Overfull \vbox (319.60645pt too high) detected at line 502
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 502.
+
+Overfull \vbox (483.0097pt too high) detected at line 502
+ []
+
+
+Overfull \vbox (336.80652pt too high) detected at line 502
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 502.
+
+Overfull \vbox (508.80981pt too high) detected at line 502
+ []
+
+Package mdframed Info: Not enough space on this page on input line 502.
+[3 <./NFL-Go-For-It!_files/NFL-Go-For-It!_19_0.png>]
+Package mdframed Info: Not enough space on this page on input line 502.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 519.
+
+<NFL-Go-For-It!_files/NFL-Go-For-It!_26_0.png, id=50, 399.4925pt x 282.05376pt>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_26_0.png Graphic file (type png)
+<use NFL-Go-For-It!_files/NFL-Go-For-It!_26_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_26_0.png used on i
+nput line 522.
+(pdftex.def)             Requested size: 399.49152pt x 282.05305pt.
+
+Overfull \vbox (41.84167pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (66.36255pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (59.04175pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (92.16266pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (76.24182pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (117.96277pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (93.4419pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (143.76288pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (110.64197pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (169.56299pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (127.84204pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (195.3631pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (145.04211pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (221.16321pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (162.24219pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (246.96332pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (179.44226pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (272.76343pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (196.64233pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (298.56354pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (213.8424pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (324.36365pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (231.04248pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (350.16376pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (248.24255pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (375.96387pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (265.44263pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (401.76398pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (282.6427pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (427.56409pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (299.84277pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (453.3642pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (317.04285pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (479.1643pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (334.24292pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (504.96442pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (351.443pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (530.76453pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (368.64307pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (556.56464pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (385.84314pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (582.36475pt too high) detected at line 526
+ []
+
+
+Overfull \vbox (403.04321pt too high) detected at line 526
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 526.
+
+Overfull \vbox (608.16486pt too high) detected at line 526
+ []
+
+[4 <./NFL-Go-For-It!_files/NFL-Go-For-It!_24_0.png>]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 552.
+
+<NFL-Go-For-It!_files/NFL-Go-For-It!_29_0.png, id=56, 429.605pt x 282.05376pt>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_29_0.png Graphic file (type png)
+
+<use NFL-Go-For-It!_files/NFL-Go-For-It!_29_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_29_0.png used on i
+nput line 555.
+(pdftex.def)             Requested size: 429.60394pt x 282.05305pt.
+ [5 <./NFL-Go-For-It!_files/NFL-Go-For-It!_26_0.png>]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 576.
+
+<NFL-Go-For-It!_files/NFL-Go-For-It!_31_0.png, id=62, 429.605pt x 282.05376pt>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_31_0.png Graphic file (type png)
+
+<use NFL-Go-For-It!_files/NFL-Go-For-It!_31_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_31_0.png used on i
+nput line 579.
+(pdftex.def)             Requested size: 429.60394pt x 282.05305pt.
+ [6 <./NFL-Go-For-It!_files/NFL-Go-For-It!_29_0.png> <./NFL-Go-For-It!_files/NF
+L-Go-For-It!_31_0.png>]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 617.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 627.
+
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 632--632
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 364--364
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 648--648
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 366--366
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 650--650
 []   \T1/pcr/m/n/10 score=DefTD       coef    std err          z      P>|z|    
   [95.0%[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 368--368
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 652--652
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 382--382
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 666--666
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 386--386
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 670--670
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 388--388
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 672--672
 []\T1/pcr/m/n/10 intercept       23.3837      1.125     20.785      0.000      
   21.179[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 390--390
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 674--674
 []\T1/pcr/m/n/10 ydline          -0.2381      0.012    -19.834      0.000      
   -0.262[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 392--392
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 676--676
 []\T1/pcr/m/n/10 offrankMid      -0.0052      0.009     -0.565      0.572      
   -0.023[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 394--394
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 678--678
 []\T1/pcr/m/n/10 offrank31t32    -0.7413      0.308     -2.410      0.016      
   -1.344[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 396--396
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 680--680
 []\T1/pcr/m/n/10 defrankMid       0.0217      0.009      2.428      0.015      
    0.004[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 398--398
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 682--682
 []\T1/pcr/m/n/10 defrank31t32     0.3214      0.357      0.901      0.368      
   -0.378[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 400--400
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 684--684
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 402--402
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 686--686
 []\T1/pcr/m/n/10 score=NoPoints       coef    std err          z      P>|z|    
   [95.0%[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 404--404
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 688--688
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 418--418
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 702--702
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 422--422
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 706--706
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 424--424
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 708--708
 []\T1/pcr/m/n/10 intercept       23.6977      1.125     21.070      0.000      
   21.493[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 426--426
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 710--710
 []\T1/pcr/m/n/10 ydline          -0.2343      0.012    -19.524      0.000      
   -0.258[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 428--428
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 712--712
 []\T1/pcr/m/n/10 offrankMid      -0.0209      0.009     -2.270      0.023      
   -0.039[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 430--430
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 714--714
 []\T1/pcr/m/n/10 offrank31t32    -1.3770      0.307     -4.487      0.000      
   -1.979[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 432--432
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 716--716
 []\T1/pcr/m/n/10 defrankMid       0.0302      0.009      3.393      0.001      
    0.013[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 434--434
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 718--718
 []\T1/pcr/m/n/10 defrank31t32     0.7186      0.355      2.023      0.043      
    0.023[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 436--436
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 720--720
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
-[1
-
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
-Overfull \vbox (3.96497pt too high) has occurred while \output is active []
-
-
-[3]
+[7] [8]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 462.
+(mdframed)             works with oneside mode on input line 745.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 472.
+(mdframed)             works with oneside mode on input line 755.
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 477--477
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 760--760
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 493--493
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 776--776
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 497--497
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 780--780
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 511--511
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 794--794
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 515--515
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 798--798
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 529--529
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 812--812
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 533--533
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 816--816
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 547--547
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 830--830
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 551--551
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 834--834
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 565--565
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 848--848
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
-[4]
-Overfull \vbox (4.11993pt too high) has occurred while \output is active []
-
-
-[5]
+[9] [10]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 592.
+(mdframed)             works with oneside mode on input line 874.
+Package mdframed Info: Not enough space on this page on input line 881.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 602.
+(mdframed)             works with oneside mode on input line 884.
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 607--607
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 889--889
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 623--623
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 905--905
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 627--627
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 909--909
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 633--633
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 915--915
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
-[6]
+[11]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 660.
+(mdframed)             works with oneside mode on input line 979.
+
+<NFL-Go-For-It!_files/NFL-Go-For-It!_51_0.png, id=90, 392.46625pt x 282.05376pt
+>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_51_0.png Graphic file (type png)
+ <use NFL-Go-For-It!_files/NFL-Go-For-It!_51_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_51_0.png used on i
+nput line 982.
+(pdftex.def)             Requested size: 392.46527pt x 282.05305pt.
+ [12 <./NFL-Go-For-It!_files/NFL-Go-For-It!_51_0.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 670.
+(mdframed)             works with oneside mode on input line 1040.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1050.
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 675--675
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1055--1055
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 691--691
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1071--1071
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 695--695
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1075--1075
 []\T1/pcr/m/n/10 --------------------------------------------------------------
 --------[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 697--697
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1077--1077
 []\T1/pcr/m/n/10 intercept        0.3322      0.035      9.441      0.000      
    0.263[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 699--699
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1079--1079
 []\T1/pcr/m/n/10 togo            -0.1417      0.002    -68.676      0.000      
   -0.146[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 701--701
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1081--1081
 []\T1/pcr/m/n/10 ydline10t30      0.2740      0.035      7.912      0.000      
    0.206[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 703--703
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1083--1083
 []\T1/pcr/m/n/10 ydline30t50      0.4415      0.033     13.261      0.000      
    0.376[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 705--705
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1085--1085
 []\T1/pcr/m/n/10 ydline50t70      0.4682      0.032     14.554      0.000      
    0.405[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 707--707
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1087--1087
 []\T1/pcr/m/n/10 ydline70t90      0.4394      0.033     13.149      0.000      
    0.374[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 709--709
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1089--1089
 []\T1/pcr/m/n/10 ydline90t100     0.3284      0.063      5.242      0.000      
    0.206[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 711--711
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1091--1091
 []\T1/pcr/m/n/10 offrankMid      -0.0136      0.001    -15.401      0.000      
   -0.015[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 713--713
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1093--1093
 []\T1/pcr/m/n/10 offrank31t32    -0.4547      0.036    -12.807      0.000      
   -0.524[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 715--715
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1095--1095
 []\T1/pcr/m/n/10 defrankMid       0.0062      0.001      7.073      0.000      
    0.005[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 717--717
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1097--1097
 []\T1/pcr/m/n/10 defrank31t32     0.2090      0.035      5.922      0.000      
    0.140[] 
  []
 
 
-Overfull \hbox (4.02335pt too wide) in paragraph at lines 719--719
+Overfull \hbox (4.02335pt too wide) in paragraph at lines 1099--1099
 []\T1/pcr/m/n/10 ==============================================================
 ========[] 
  []
 
-[7]
+[13]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 756.
+(mdframed)             works with oneside mode on input line 1126.
+ <NFL-Go-For-It!_files/NFL-Go-For-It!_62_0.png, id=101, 481.8pt x 481.8pt>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_62_0.png Graphic file (type png)
 
-<NFL-Go-For-It!_files/NFL-Go-For-It!_53_0.png, id=56, 399.4925pt x 282.05376pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_53_0.png Graphic file (type png)
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_53_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_53_0.png used on i
-nput line 759.
-(pdftex.def)             Requested size: 399.49152pt x 282.05305pt.
- [8 <./NFL-Go-For-It!_files/NFL-Go-For-It!_53_0.png>]
+<use NFL-Go-For-It!_files/NFL-Go-For-It!_62_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_62_0.png used on i
+nput line 1129.
+(pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 780.
+(mdframed)             works with oneside mode on input line 1150.
 
-<NFL-Go-For-It!_files/NFL-Go-For-It!_55_0.png, id=63, 399.4925pt x 282.05376pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_55_0.png Graphic file (type png)
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_55_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_55_0.png used on i
-nput line 783.
-(pdftex.def)             Requested size: 399.49152pt x 282.05305pt.
-Package mdframed Info: Not enough space on this page on input line 787.
+<NFL-Go-For-It!_files/NFL-Go-For-It!_64_0.png, id=102, 481.8pt x 481.8pt>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_64_0.png Graphic file (type png)
+
+<use NFL-Go-For-It!_files/NFL-Go-For-It!_64_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_64_0.png used on i
+nput line 1153.
+(pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
+ [14 <./NFL-Go-For-It!_files/NFL-Go-For-It!_62_0.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 807.
+(mdframed)             works with oneside mode on input line 1174.
 
-<NFL-Go-For-It!_files/NFL-Go-For-It!_57_0.png, id=64, 640.3925pt x 477.785pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_57_0.png Graphic file (type png)
-
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_57_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_57_0.png used on i
-nput line 810.
-(pdftex.def)             Requested size: 640.39093pt x 477.78383pt.
- [9 <./NFL-Go-For-It!_files/NFL-Go-For-It!_55_0.png>]
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 830.
-
-<NFL-Go-For-It!_files/NFL-Go-For-It!_58_0.png, id=70, 636.3775pt x 494.84875pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_58_0.png Graphic file (type png)
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_58_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_58_0.png used on i
-nput line 833.
-(pdftex.def)             Requested size: 636.37595pt x 494.84755pt.
-
-Overfull \vbox (4.98956pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (11.08438pt too high) detected at line 837
- []
-
-
-Overfull \vbox (22.18964pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (36.88449pt too high) detected at line 837
- []
-
-
-Overfull \vbox (39.38971pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (62.6846pt too high) detected at line 837
- []
-
-
-Overfull \vbox (56.58978pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (88.48471pt too high) detected at line 837
- []
-
-
-Overfull \vbox (73.78986pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (114.28482pt too high) detected at line 837
- []
-
-
-Overfull \vbox (90.98993pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (140.08493pt too high) detected at line 837
- []
-
-
-Overfull \vbox (108.19pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (165.88504pt too high) detected at line 837
- []
-
-
-Overfull \vbox (125.39008pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (191.68515pt too high) detected at line 837
- []
-
-
-Overfull \vbox (142.59015pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (217.48526pt too high) detected at line 837
- []
-
-
-Overfull \vbox (159.79022pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (243.28537pt too high) detected at line 837
- []
-
-
-Overfull \vbox (176.9903pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (269.08548pt too high) detected at line 837
- []
-
-
-Overfull \vbox (194.19037pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (294.88559pt too high) detected at line 837
- []
-
-
-Overfull \vbox (211.39044pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (320.6857pt too high) detected at line 837
- []
-
-
-Overfull \vbox (228.59052pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (346.48581pt too high) detected at line 837
- []
-
-
-Overfull \vbox (245.79059pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (372.28592pt too high) detected at line 837
- []
-
-
-Overfull \vbox (262.99066pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (398.08603pt too high) detected at line 837
- []
-
-
-Overfull \vbox (280.19073pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (423.88614pt too high) detected at line 837
- []
-
-
-Overfull \vbox (297.39081pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (449.68625pt too high) detected at line 837
- []
-
-
-Overfull \vbox (314.59088pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (475.48636pt too high) detected at line 837
- []
-
-
-Overfull \vbox (331.79095pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (501.28647pt too high) detected at line 837
- []
-
-
-Overfull \vbox (348.99103pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (527.08658pt too high) detected at line 837
- []
-
-
-Overfull \vbox (366.1911pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (552.88669pt too high) detected at line 837
- []
-
-
-Overfull \vbox (383.39117pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (578.6868pt too high) detected at line 837
- []
-
-
-Overfull \vbox (400.59125pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (604.48691pt too high) detected at line 837
- []
-
-
-Overfull \vbox (417.79132pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (630.28702pt too high) detected at line 837
- []
-
-
-Overfull \vbox (434.9914pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (656.08713pt too high) detected at line 837
- []
-
-
-Overfull \vbox (452.19147pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (681.88724pt too high) detected at line 837
- []
-
-
-Overfull \vbox (469.39154pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (707.68735pt too high) detected at line 837
- []
-
-
-Overfull \vbox (486.59161pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (733.48746pt too high) detected at line 837
- []
-
-
-Overfull \vbox (503.79169pt too high) detected at line 837
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 837.
-
-Overfull \vbox (759.28757pt too high) detected at line 837
- []
-
-Package mdframed Info: Not enough space on this page on input line 837.
-[10 <./NFL-Go-For-It!_files/NFL-Go-For-It!_57_0.png>]
-Package mdframed Info: Not enough space on this page on input line 837.
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 853.
-
-<NFL-Go-For-It!_files/NFL-Go-For-It!_59_0.png, id=76, 636.3775pt x 498.86375pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_59_0.png Graphic file (type png)
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_59_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_59_0.png used on i
-nput line 856.
-(pdftex.def)             Requested size: 636.37595pt x 498.86253pt.
-
-Overfull \vbox (236.71652pt too high) detected at line 860
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 860.
-
-Overfull \vbox (358.67482pt too high) detected at line 860
- []
-
-
-Overfull \vbox (253.9166pt too high) detected at line 860
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 860.
-
-Overfull \vbox (384.47493pt too high) detected at line 860
- []
-
-
-Overfull \vbox (271.11667pt too high) detected at line 860
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 860.
-
-Overfull \vbox (410.27504pt too high) detected at line 860
- []
-
-
-Overfull \vbox (288.31674pt too high) detected at line 860
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 860.
-
-Overfull \vbox (436.07515pt too high) detected at line 860
- []
-
-
-Overfull \vbox (305.51682pt too high) detected at line 860
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 860.
-
-Overfull \vbox (461.87526pt too high) detected at line 860
- []
-
-
-Overfull \vbox (322.71689pt too high) detected at line 860
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 860.
-
-Overfull \vbox (487.67537pt too high) detected at line 860
- []
-
-
-Overfull \vbox (339.91696pt too high) detected at line 860
- []
-
-Package mdframed Info: Box was splittet wrong
-(mdframed)              on input line 860.
-
-Overfull \vbox (513.47548pt too high) detected at line 860
- []
-
-[11 <./NFL-Go-For-It!_files/NFL-Go-For-It!_58_0.png>]
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 876.
-
-<NFL-Go-For-It!_files/NFL-Go-For-It!_60_0.png, id=82, 632.3625pt x 503.8825pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_60_0.png Graphic file (type png)
-
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_60_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_60_0.png used on i
-nput line 879.
-(pdftex.def)             Requested size: 632.36096pt x 503.88127pt.
- [12 <./NFL-Go-For-It!_files/NFL-Go-For-It!_59_0.png>]
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 902.
-
-<NFL-Go-For-It!_files/NFL-Go-For-It!_63_0.png, id=88, 809.0225pt x 646.415pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_63_0.png Graphic file (type png)
-
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_63_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_63_0.png used on i
-nput line 905.
-(pdftex.def)             Requested size: 809.02054pt x 646.41342pt.
- [13 <./NFL-Go-For-It!_files/NFL-Go-For-It!_60_0.png>]
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 928.
-
-<NFL-Go-For-It!_files/NFL-Go-For-It!_66_0.png, id=95, 809.0225pt x 646.415pt>
+<NFL-Go-For-It!_files/NFL-Go-For-It!_66_0.png, id=108, 481.8pt x 481.8pt>
 File: NFL-Go-For-It!_files/NFL-Go-For-It!_66_0.png Graphic file (type png)
 
 <use NFL-Go-For-It!_files/NFL-Go-For-It!_66_0.png>
 Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_66_0.png used on i
-nput line 931.
-(pdftex.def)             Requested size: 809.02054pt x 646.41342pt.
- [14 <./NFL-Go-For-It!_files/NFL-Go-For-It!_63_0.png>]
+nput line 1177.
+(pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
+ [15 <./NFL-Go-For-It!_files/NFL-Go-For-It!_64_0.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 954.
+(mdframed)             works with oneside mode on input line 1198.
 
-<NFL-Go-For-It!_files/NFL-Go-For-It!_69_0.png, id=101, 640.3925pt x 512.91624pt
->
+<NFL-Go-For-It!_files/NFL-Go-For-It!_68_0.png, id=114, 481.8pt x 481.8pt>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_68_0.png Graphic file (type png)
+
+<use NFL-Go-For-It!_files/NFL-Go-For-It!_68_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_68_0.png used on i
+nput line 1201.
+(pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
+ [16 <./NFL-Go-For-It!_files/NFL-Go-For-It!_66_0.png>]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1221.
+
+<NFL-Go-For-It!_files/NFL-Go-For-It!_69_0.png, id=120, 390.45876pt x 304.13625p
+t>
 File: NFL-Go-For-It!_files/NFL-Go-For-It!_69_0.png Graphic file (type png)
  <use NFL-Go-For-It!_files/NFL-Go-For-It!_69_0.png>
 Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_69_0.png used on i
-nput line 957.
-(pdftex.def)             Requested size: 640.39093pt x 512.915pt.
- [15 <./NFL-Go-For-It!_files/NFL-Go-For-It!_66_0.png>]
+nput line 1224.
+(pdftex.def)             Requested size: 390.4578pt x 304.1355pt.
+
+Overfull \vbox (91.29196pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (140.53798pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (108.49203pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (166.33809pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (125.69211pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (192.1382pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (142.89218pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (217.93831pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (160.09225pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (243.73842pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (177.29233pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (269.53853pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (194.4924pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (295.33864pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (211.69247pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (321.13875pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (228.89255pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (346.93886pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (246.09262pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (372.73897pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (263.2927pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (398.53908pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (280.49277pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (424.33919pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (297.69284pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (450.1393pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (314.89291pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (475.9394pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (332.09299pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (501.73952pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (349.29306pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (527.53963pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (366.49313pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (553.33974pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (383.6932pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (579.13985pt too high) detected at line 1228
+ []
+
+
+Overfull \vbox (400.89328pt too high) detected at line 1228
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1228.
+
+Overfull \vbox (604.93996pt too high) detected at line 1228
+ []
+
+[17 <./NFL-Go-For-It!_files/NFL-Go-For-It!_68_0.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 982.
+(mdframed)             works with oneside mode on input line 1252.
 
-<NFL-Go-For-It!_files/NFL-Go-For-It!_75_0.png, id=107, 931.48pt x 398.48875pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_75_0.png Graphic file (type png)
+<NFL-Go-For-It!_files/NFL-Go-For-It!_71_0.png, id=126, 390.45876pt x 303.1325pt
+>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_71_0.png Graphic file (type png)
+ <use NFL-Go-For-It!_files/NFL-Go-For-It!_71_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_71_0.png used on i
+nput line 1255.
+(pdftex.def)             Requested size: 390.4578pt x 303.13176pt.
 
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_75_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_75_0.png used on i
-nput line 985.
-(pdftex.def)             Requested size: 931.47772pt x 398.48778pt.
+Overfull \vbox (195.40334pt too high) detected at line 1259
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1259.
+
+Overfull \vbox (296.70503pt too high) detected at line 1259
+ []
+
+
+Overfull \vbox (212.60341pt too high) detected at line 1259
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1259.
+
+Overfull \vbox (322.50514pt too high) detected at line 1259
+ []
+
+
+Overfull \vbox (229.80348pt too high) detected at line 1259
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1259.
+
+Overfull \vbox (348.30525pt too high) detected at line 1259
+ []
+
+
+Overfull \vbox (247.00356pt too high) detected at line 1259
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1259.
+
+Overfull \vbox (374.10536pt too high) detected at line 1259
+ []
+
+
+Overfull \vbox (264.20363pt too high) detected at line 1259
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1259.
+
+Overfull \vbox (399.90547pt too high) detected at line 1259
+ []
+
+
+Overfull \vbox (281.4037pt too high) detected at line 1259
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1259.
+
+Overfull \vbox (425.70558pt too high) detected at line 1259
+ []
+
+
+Overfull \vbox (298.60378pt too high) detected at line 1259
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1259.
+
+Overfull \vbox (451.50569pt too high) detected at line 1259
+ []
+
+
+Overfull \vbox (315.80385pt too high) detected at line 1259
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1259.
+
+Overfull \vbox (477.3058pt too high) detected at line 1259
+ []
+
+
+Overfull \vbox (333.00392pt too high) detected at line 1259
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1259.
+
+Overfull \vbox (503.10591pt too high) detected at line 1259
+ []
+
+Package mdframed Info: Not enough space on this page on input line 1259.
+[18 <./NFL-Go-For-It!_files/NFL-Go-For-It!_69_0.png>]
+Package mdframed Info: Not enough space on this page on input line 1259.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1007.
+(mdframed)             works with oneside mode on input line 1279.
 
-<NFL-Go-For-It!_files/NFL-Go-For-It!_78_0.png, id=108, 931.48pt x 398.48875pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_78_0.png Graphic file (type png)
+<NFL-Go-For-It!_files/NFL-Go-For-It!_73_0.png, id=132, 390.45876pt x 305.14pt>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_73_0.png Graphic file (type png)
 
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_78_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_78_0.png used on i
-nput line 1010.
-(pdftex.def)             Requested size: 931.47772pt x 398.48778pt.
- [16 <./NFL-Go-For-It!_files/NFL-Go-For-It!_69_0.png> <./NFL-Go-For-It!_files/N
-FL-Go-For-It!_75_0.png>]
+<use NFL-Go-For-It!_files/NFL-Go-For-It!_73_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_73_0.png used on i
+nput line 1282.
+(pdftex.def)             Requested size: 390.4578pt x 305.13924pt.
+
+Overfull \vbox (88.40634pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (136.20955pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (105.60641pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (162.00966pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (122.80649pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (187.80977pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (140.00656pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (213.60988pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (157.20663pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (239.40999pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (174.40671pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (265.2101pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (191.60678pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (291.01021pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (208.80685pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (316.81032pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (226.00693pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (342.61043pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (243.207pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (368.41054pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (260.40707pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (394.21065pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (277.60715pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (420.01076pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (294.80722pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (445.81087pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (312.0073pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (471.61098pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (329.20737pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (497.41109pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (346.40744pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (523.2112pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (363.60751pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (549.0113pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (380.80759pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (574.81142pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (398.00766pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (600.61153pt too high) detected at line 1286
+ []
+
+
+Overfull \vbox (415.20773pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1286.
+
+Overfull \vbox (626.41164pt too high) detected at line 1286
+ []
+
+Package mdframed Info: Not enough space on this page on input line 1286.
+[19 <./NFL-Go-For-It!_files/NFL-Go-For-It!_71_0.png>]
+Package mdframed Info: Not enough space on this page on input line 1286.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1306--1314
+
+ []
+
+[20 <./NFL-Go-For-It!_files/NFL-Go-For-It!_73_0.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1032.
+(mdframed)             works with oneside mode on input line 1361.
 
-<NFL-Go-For-It!_files/NFL-Go-For-It!_81_0.png, id=115, 931.48pt x 398.48875pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_81_0.png Graphic file (type png)
-
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_81_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_81_0.png used on i
-nput line 1035.
-(pdftex.def)             Requested size: 931.47772pt x 398.48778pt.
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1057.
-
-<NFL-Go-For-It!_files/NFL-Go-For-It!_84_0.png, id=116, 931.48pt x 398.48875pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_84_0.png Graphic file (type png)
-
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_84_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_84_0.png used on i
-nput line 1060.
-(pdftex.def)             Requested size: 931.47772pt x 398.48778pt.
- [17 <./NFL-Go-For-It!_files/NFL-Go-For-It!_78_0.png> <./NFL-Go-For-It!_files/N
-FL-Go-For-It!_81_0.png> <./NFL-Go-For-It!_files/NFL-Go-For-It!_84_0.png>]
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1081.
-
-<NFL-Go-For-It!_files/NFL-Go-For-It!_86_0.png, id=124, 481.8pt x 481.8pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_86_0.png Graphic file (type png)
-
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_86_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_86_0.png used on i
-nput line 1084.
-(pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1105.
-
-<NFL-Go-For-It!_files/NFL-Go-For-It!_88_0.png, id=125, 481.8pt x 481.8pt>
+<NFL-Go-For-It!_files/NFL-Go-For-It!_88_0.png, id=144, 424.58624pt x 304.13625p
+t>
 File: NFL-Go-For-It!_files/NFL-Go-For-It!_88_0.png Graphic file (type png)
-
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_88_0.png>
+ <use NFL-Go-For-It!_files/NFL-Go-For-It!_88_0.png>
 Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_88_0.png used on i
-nput line 1108.
-(pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
- [18 <./NFL-Go-For-It!_files/NFL-Go-For-It!_86_0.png>]
+nput line 1364.
+(pdftex.def)             Requested size: 424.5852pt x 304.1355pt.
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1129.
+(mdframed)             works with oneside mode on input line 1387.
 
-<NFL-Go-For-It!_files/NFL-Go-For-It!_90_0.png, id=131, 481.8pt x 481.8pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_90_0.png Graphic file (type png)
-
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_90_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_90_0.png used on i
-nput line 1132.
-(pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
- [19 <./NFL-Go-For-It!_files/NFL-Go-For-It!_88_0.png>]
+<NFL-Go-For-It!_files/NFL-Go-For-It!_91_0.png, id=145, 424.58624pt x 306.14375p
+t>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_91_0.png Graphic file (type png)
+ <use NFL-Go-For-It!_files/NFL-Go-For-It!_91_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_91_0.png used on i
+nput line 1390.
+(pdftex.def)             Requested size: 424.5852pt x 306.14299pt.
+ [21 <./NFL-Go-For-It!_files/NFL-Go-For-It!_88_0.png>]
 Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 1153.
+(mdframed)             works with oneside mode on input line 1413.
 
-<NFL-Go-For-It!_files/NFL-Go-For-It!_92_0.png, id=138, 481.8pt x 481.8pt>
-File: NFL-Go-For-It!_files/NFL-Go-For-It!_92_0.png Graphic file (type png)
+<NFL-Go-For-It!_files/NFL-Go-For-It!_94_0.png, id=151, 395.4775pt x 305.14pt>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_94_0.png Graphic file (type png)
 
-<use NFL-Go-For-It!_files/NFL-Go-For-It!_92_0.png>
-Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_92_0.png used on i
-nput line 1156.
-(pdftex.def)             Requested size: 481.79881pt x 481.79881pt.
- [20 <./NFL-Go-For-It!_files/NFL-Go-For-It!_90_0.png>]
+<use NFL-Go-For-It!_files/NFL-Go-For-It!_94_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_94_0.png used on i
+nput line 1416.
+(pdftex.def)             Requested size: 395.47653pt x 305.13924pt.
+
+Overfull \vbox (8.42267pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (16.23404pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (25.62274pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (42.03415pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (42.82281pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (67.83426pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (60.02289pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (93.63437pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (77.22296pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (119.43448pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (94.42303pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (145.23459pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (111.62311pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (171.0347pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (128.82318pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (196.83481pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (146.02325pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (222.63492pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (163.22333pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (248.43503pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (180.4234pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (274.23514pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (197.62347pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (300.03525pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (214.82355pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (325.83536pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (232.02362pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (351.63547pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (249.2237pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (377.43558pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (266.42377pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (403.23569pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (283.62384pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (429.0358pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (300.82391pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (454.8359pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (318.02399pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (480.63602pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (335.22406pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (506.43613pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (352.42413pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (532.23624pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (369.6242pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (558.03635pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (386.82428pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (583.83646pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (404.02435pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (609.63657pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (421.22443pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (635.43668pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (438.4245pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (661.23679pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (455.62457pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (687.0369pt too high) detected at line 1420
+ []
+
+
+Overfull \vbox (472.82465pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Box was splittet wrong
+(mdframed)              on input line 1420.
+
+Overfull \vbox (712.837pt too high) detected at line 1420
+ []
+
+Package mdframed Info: Not enough space on this page on input line 1420.
+[22 <./NFL-Go-For-It!_files/NFL-Go-For-It!_91_0.png>]
+Package mdframed Info: Not enough space on this page on input line 1420.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1441.
+
+<NFL-Go-For-It!_files/NFL-Go-For-It!_100_0.png, id=157, 931.48pt x 398.48875pt>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_100_0.png Graphic file (type png)
+<use NFL-Go-For-It!_files/NFL-Go-For-It!_100_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_100_0.png used on 
+input line 1444.
+(pdftex.def)             Requested size: 931.47772pt x 398.48778pt.
+ [23 <./NFL-Go-For-It!_files/NFL-Go-For-It!_94_0.png>]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1478.
+
+<NFL-Go-For-It!_files/NFL-Go-For-It!_104_0.png, id=163, 931.48pt x 398.48875pt>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_104_0.png Graphic file (type png)
+<use NFL-Go-For-It!_files/NFL-Go-For-It!_104_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_104_0.png used on 
+input line 1481.
+(pdftex.def)             Requested size: 931.47772pt x 398.48778pt.
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1506.
+
+<NFL-Go-For-It!_files/NFL-Go-For-It!_108_0.png, id=164, 931.48pt x 398.48875pt>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_108_0.png Graphic file (type png)
+<use NFL-Go-For-It!_files/NFL-Go-For-It!_108_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_108_0.png used on 
+input line 1509.
+(pdftex.def)             Requested size: 931.47772pt x 398.48778pt.
+ [24 <./NFL-Go-For-It!_files/NFL-Go-For-It!_100_0.png> <./NFL-Go-For-It!_files/
+NFL-Go-For-It!_104_0.png>]
+Package mdframed Info: mdframed inside twoside mode but
+(mdframed)             works with oneside mode on input line 1536.
+
+<NFL-Go-For-It!_files/NFL-Go-For-It!_112_0.png, id=171, 931.48pt x 398.48875pt>
+File: NFL-Go-For-It!_files/NFL-Go-For-It!_112_0.png Graphic file (type png)
+<use NFL-Go-For-It!_files/NFL-Go-For-It!_112_0.png>
+Package pdftex.def Info: NFL-Go-For-It!_files/NFL-Go-For-It!_112_0.png used on 
+input line 1539.
+(pdftex.def)             Requested size: 931.47772pt x 398.48778pt.
+ [25 <./NFL-Go-For-It!_files/NFL-Go-For-It!_108_0.png> <./NFL-Go-For-It!_files/
+NFL-Go-For-It!_112_0.png>]
 No file NFL-Go-For-It!.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1171.
-[21 <./NFL-Go-For-It!_files/NFL-Go-For-It!_92_0.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1171.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1591.
+[26]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1591.
  (./NFL-Go-For-It!.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1171.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1171.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1591.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1591.
 
 Package rerunfilecheck Info: File `NFL-Go-For-It!.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1171.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1591.
  ) 
 Here is how much of TeX's memory you used:
- 25738 strings out of 493488
- 446876 string characters out of 3141326
- 576147 words of memory out of 3000000
- 28462 multiletter control sequences out of 15000+200000
+ 25762 strings out of 493488
+ 447566 string characters out of 3141326
+ 566474 words of memory out of 3000000
+ 28474 multiletter control sequences out of 15000+200000
  31749 words of font info for 45 fonts, out of 3000000 for 9000
  958 hyphenation exceptions out of 8191
  56i,10n,78p,933b,831s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2589,10 +3354,10 @@ Here is how much of TeX's memory you used:
 exlive/2012/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2
 012/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2012/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on NFL-Go-For-It!.pdf (21 pages, 895061 bytes).
+Output written on NFL-Go-For-It!.pdf (26 pages, 981342 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
- 194 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 205 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 209 words of extra memory for PDF output out of 10000 (max. 10000000)
 

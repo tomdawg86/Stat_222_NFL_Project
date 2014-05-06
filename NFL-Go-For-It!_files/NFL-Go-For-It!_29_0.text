@@ -1,9 +1,1 @@
-                      DefTD        FG  NoPoints        TD
-intercept         -2.505152 -2.087459  1.306882 -1.127434
-removelast_ydline  0.050217  0.087383  0.060661  0.080226
-offrankMid         0.007299 -0.001777  0.013215 -0.016401
-offrank31t32      -0.166807 -0.942778 -0.397772 -1.485986
-defrankMid         0.018914  0.028430  0.014893  0.038073
-defrank31t32       0.255890  0.602383  0.258313  1.120144
-
-[6 rows x 4 columns]
+<matplotlib.figure.Figure at 0x111c6a8d0>
